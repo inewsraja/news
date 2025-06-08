@@ -12,7 +12,7 @@
     <meta name="robots" content="index, follow" />
     <meta name="language" content="Indonesia" />
     <meta name="author" content="FIJISLOT" />
-    <meta name="og:url" content="https://pmb.ibrahimy.ac.id/system/upload/scatter-hitam-berkelanjutan-fiji-lampung.html" />
+    <meta name="og:url" content="https://fekon.uniga.ac.id/pmb/css/scatter-hitam-berkelanjutan-fiji-lampung.html" />
     <meta name="og:title" content="Merawat Scatter Hitam: FIJISLOT dan Petani di Lampung Berbagi Strategi Pertanian Berkelanjutan" />
     <meta name="og:type" content="product" />
     <meta name="og:description" content="FIJISLOT berkolaborasi dengan petani di Lampung untuk merawat dan mengoptimalkan penggunaan scatter hitam dalam pertanian berkelanjutan, yang tidak hanya meningkatkan hasil tani tetapi juga menjaga kelestarian lingkungan." />
@@ -20,7 +20,7 @@
     <meta name="og:image" content="https://www.badges25mm.fr/blog/wp-admin/images/php/scatter-hitam-berkelanjutan-fiji-lampung.jpg" />
     <link rel="icon" type="image/x-icon" href="https://files.sitestatic.net/ImageFile/20240222115327000000cc14487a97MKPAFAA__512x512.gif" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
-    <link rel="canonical" href="https://pmb.ibrahimy.ac.id/system/upload/scatter-hitam-berkelanjutan-fiji-lampung.html" />
+    <link rel="canonical" href="https://fekon.uniga.ac.id/pmb/css/scatter-hitam-berkelanjutan-fiji-lampung.html" />
     <link rel="amphtml" href="https://emsiseo.b-cdn.net/perpusmercubaktijayaacid.html">
     <!-- start preload -->
     <link rel="preload" href="https://www.badges25mm.fr/blog/wp-admin/images/php/scatter-hitam-berkelanjutan-fiji-lampung.jpg" as="image" />
@@ -359,14 +359,14 @@ gtag('config', 'G-RZ16XX4YT2');
         "name": "Merawat Scatter Hitam: FIJISLOT dan Petani di Lampung Berbagi Strategi Pertanian Berkelanjutan",
         "image": "https://www.badges25mm.fr/blog/wp-admin/images/php/scatter-hitam-berkelanjutan-fiji-lampung.jpg",
         "description": "FIJISLOT berkolaborasi dengan petani di Lampung untuk merawat dan mengoptimalkan penggunaan scatter hitam dalam pertanian berkelanjutan, yang tidak hanya meningkatkan hasil tani tetapi juga menjaga kelestarian lingkungan.",
-        "url": "https://pmb.ibrahimy.ac.id/system/upload/scatter-hitam-berkelanjutan-fiji-lampung.html",
+        "url": "https://fekon.uniga.ac.id/pmb/css/scatter-hitam-berkelanjutan-fiji-lampung.html",
         "brand": {
           "@type": "Brand",
           "name": "FIJISLOT"
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://pmb.ibrahimy.ac.id/system/upload/scatter-hitam-berkelanjutan-fiji-lampung.html",
+          "url": "https://fekon.uniga.ac.id/pmb/css/scatter-hitam-berkelanjutan-fiji-lampung.html",
           "price": "10000",
           "priceCurrency": "IDR",
           "priceValidUntil": "2025-12-31",
@@ -374,7 +374,7 @@ gtag('config', 'G-RZ16XX4YT2');
           "hasMerchantReturnPolicy": {
             "@type": "MerchantReturnPolicy",
             "refundType": "http://schema.org/FullRefund",
-            "merchantReturnLink": "https://pmb.ibrahimy.ac.id/system/upload/scatter-hitam-berkelanjutan-fiji-lampung.html",
+            "merchantReturnLink": "https://fekon.uniga.ac.id/pmb/css/scatter-hitam-berkelanjutan-fiji-lampung.html",
             "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
             "merchantReturnDays": 60,
             "returnMethod": "https://schema.org/ReturnByMail",
@@ -529,7 +529,7 @@ gtag('config', 'G-RZ16XX4YT2');
                     <a class="highlight" target="_blank" href="https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0"> INTERNAL FEEDBACK </a>
                   </div>
                   <div class="top-links-item" id="topActionFeedback">
-                    <a class="highlight" target="_blank" href="https://pmb.ibrahimy.ac.id/system/upload/scatter-hitam-berkelanjutan-fiji-lampung.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">FIJISLOT</a>
+                    <a class="highlight" target="_blank" href="https://fekon.uniga.ac.id/pmb/css/scatter-hitam-berkelanjutan-fiji-lampung.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">FIJISLOT</a>
                   </div>
                   <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
                     <span>SITUS FIJISLOT</span>
@@ -567,8 +567,8 @@ gtag('config', 'G-RZ16XX4YT2');
                             </div>
                             <div class="error-message" id="topActionDownloadErrorMsg"></div>
                             <div class="app-stores">
-                              <a href="https://pmb.ibrahimy.ac.id/system/upload/scatter-hitam-berkelanjutan-fiji-lampung.html" class="store-link"><i class="app-apple"></i></a>
-                              <a href="https://pmb.ibrahimy.ac.id/system/upload/scatter-hitam-berkelanjutan-fiji-lampung.html" class="store-link"><i class="app-google"></i></a>
+                              <a href="https://fekon.uniga.ac.id/pmb/css/scatter-hitam-berkelanjutan-fiji-lampung.html" class="store-link"><i class="app-apple"></i></a>
+                              <a href="https://fekon.uniga.ac.id/pmb/css/scatter-hitam-berkelanjutan-fiji-lampung.html" class="store-link"><i class="app-google"></i></a>
                             </div>
                           </div>
                         </div>
@@ -576,7 +576,7 @@ gtag('config', 'G-RZ16XX4YT2');
                     </div>
                   </div>
                   <div class="top-links-item" id="topActionSell">
-                    <a class="cyan" href="https://pmb.ibrahimy.ac.id/system/upload/scatter-hitam-berkelanjutan-fiji-lampung.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">FIJISLOT GACOR</a>
+                    <a class="cyan" href="https://fekon.uniga.ac.id/pmb/css/scatter-hitam-berkelanjutan-fiji-lampung.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">FIJISLOT GACOR</a>
                   </div>
                   <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
                     <span>LINK FIJISLOT</span>
@@ -643,7 +643,7 @@ gtag('config', 'G-RZ16XX4YT2');
               <div class="lzd-logo-bar">
                 <div class="logo-bar-content header-content">
                   <div class="lzd-logo-content">
-                    <a href="https://pmb.ibrahimy.ac.id/system/upload/scatter-hitam-berkelanjutan-fiji-lampung.html" data-spm="dhome">
+                    <a href="https://fekon.uniga.ac.id/pmb/css/scatter-hitam-berkelanjutan-fiji-lampung.html" data-spm="dhome">
                       <img src="https://files.sitestatic.net/ImageFile/648f1e7425ba6_fijislot_310x80.png" alt="FIJISLOT" />
                     </a>
                   </div>
@@ -656,7 +656,7 @@ gtag('config', 'G-RZ16XX4YT2');
                       <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                         <div class="lzd-site-menu-nav-container">
                           <div class="lzd-site-menu-nav-category">
-                            <a href="https://pmb.ibrahimy.ac.id/system/upload/scatter-hitam-berkelanjutan-fiji-lampung.html">
+                            <a href="https://fekon.uniga.ac.id/pmb/css/scatter-hitam-berkelanjutan-fiji-lampung.html">
                               <span class="lzd-site-menu-nav-category-text">Kategori</span>
                             </a>
                             <div class="lzd-site-menu-nav-menu">
@@ -853,7 +853,7 @@ gtag('config', 'G-RZ16XX4YT2');
                     </div>
                   </div>
                   <div class="lzd-nav-cart">
-                    <a href="https://pmb.ibrahimy.ac.id/system/upload/scatter-hitam-berkelanjutan-fiji-lampung.html" data-spm="dcart">
+                    <a href="https://fekon.uniga.ac.id/pmb/css/scatter-hitam-berkelanjutan-fiji-lampung.html" data-spm="dcart">
                       <span class="cart-icon"></span>
                       <span class="cart-num" id="topActionCartNumber"></span>
                     </a>
@@ -866,7 +866,7 @@ gtag('config', 'G-RZ16XX4YT2');
               <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                 <div class="lzd-site-menu-nav-container">
                   <div class="lzd-site-menu-nav-category">
-                    <a href="https://pmb.ibrahimy.ac.id/system/upload/scatter-hitam-berkelanjutan-fiji-lampung.html">
+                    <a href="https://fekon.uniga.ac.id/pmb/css/scatter-hitam-berkelanjutan-fiji-lampung.html">
                       <span class="lzd-site-menu-nav-category-text">Kategori</span>
                     </a>
                     <div class="lzd-site-menu-nav-menu">
@@ -1029,28 +1029,28 @@ gtag('config', 'G-RZ16XX4YT2');
                     </div>
                   </div>
                   <nav class="lzd-menu-labels" data-spm="menu">
-                    <a class="lzd-menu-labels-item" href="https://pmb.ibrahimy.ac.id/system/upload/scatter-hitam-berkelanjutan-fiji-lampung.html">
+                    <a class="lzd-menu-labels-item" href="https://fekon.uniga.ac.id/pmb/css/scatter-hitam-berkelanjutan-fiji-lampung.html">
                       <!-- <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                         <img alt="LazMall" class="lzd-site-nav-menu-iconfont-img" src="https://files.sitestatic.net/ImageFile/648f1e7425ba6_fijislot_310x80.png" />
                       </span> -->
                       <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                       <span class="lzd-menu-labels-item-text">Daftar Akun =></span>
                     </a>
-                    <a class="lzd-menu-labels-item" href="https://pmb.ibrahimy.ac.id/system/upload/scatter-hitam-berkelanjutan-fiji-lampung.html">
+                    <a class="lzd-menu-labels-item" href="https://fekon.uniga.ac.id/pmb/css/scatter-hitam-berkelanjutan-fiji-lampung.html">
                       <!-- <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                         <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://files.sitestatic.net/ImageFile/648f1e7425ba6_fijislot_310x80.png" />
                       </span> -->
                       <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                       <span class="lzd-menu-labels-item-text">Deposit Saldo =></span>
                     </a>
-                    <a class="lzd-menu-labels-item" href="https://pmb.ibrahimy.ac.id/system/upload/scatter-hitam-berkelanjutan-fiji-lampung.html">
+                    <a class="lzd-menu-labels-item" href="https://fekon.uniga.ac.id/pmb/css/scatter-hitam-berkelanjutan-fiji-lampung.html">
                       <!-- <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                         <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://files.sitestatic.net/ImageFile/648f1e7425ba6_fijislot_310x80.png" />
                       </span> -->
                       <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                       <span class="lzd-menu-labels-item-text">Main Game =></span>
                     </a>
-                    <a class="lzd-menu-labels-item" href="https://pmb.ibrahimy.ac.id/system/upload/scatter-hitam-berkelanjutan-fiji-lampung.html">
+                    <a class="lzd-menu-labels-item" href="https://fekon.uniga.ac.id/pmb/css/scatter-hitam-berkelanjutan-fiji-lampung.html">
                       <!-- <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                         <img alt="LazBlog" class="lzd-site-nav-menu-iconfont-img" src="https://files.sitestatic.net/ImageFile/648f1e7425ba6_fijislot_310x80.png" />
                       </span> -->
@@ -1262,7 +1262,7 @@ gtag('config', 'G-RZ16XX4YT2');
                 <div id="module_product_brand_1" class="pdp-block module">
                   <div class="pdp-product-brand">
                     <span class="pdp-product-brand__name">Merek:</span>
-                    <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://pmb.ibrahimy.ac.id/system/upload/scatter-hitam-berkelanjutan-fiji-lampung.html">FIJISLOT</a>
+                    <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://fekon.uniga.ac.id/pmb/css/scatter-hitam-berkelanjutan-fiji-lampung.html">FIJISLOT</a>
                     <div class="pdp-product-brand__divider"></div>
                   </div>
                 </div>
