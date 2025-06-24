@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Google Site Verification -->
+  <meta name="google-site-verification" content="nMGLYXQSYIxDUGnlp0JjDnwovMz1HZQbeaNRKgu0Jvk" />
+  <title>Verifikasi Google</title>
+</head>
+<body>
+  <h1>Selamat datang di situs saya!</h1>
+  <p>Halaman ini digunakan untuk verifikasi Google Search Console.</p>
+</body>
+</html>
