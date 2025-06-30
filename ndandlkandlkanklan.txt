@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://pa-yogyakarta.go.id/schemas/sitemap/0.9">
+  <url>
+    <loc>https://pa-yogyakarta.go.id/</loc>
+  </url>
+</urlset>
