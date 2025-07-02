@@ -1,0 +1,1766 @@
+<!DOCTYPE HTML>
+<html lang="en-gb" dir="ltr">
+
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<base href="https://pa-bangkalan.go.id/" />
+	<meta name="keywords" content="Bangkalan" />
+	<meta name="author" content="Super User" />
+	<meta name="description" content="Pengadilan Agama Bangkalan, PA Bangkalan, Bangkalan, Pengadilan" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Beranda || Halaman Utama</title>
+	<link href="https://pa-bangkalan.go.id/component/search/?id=116&amp;Itemid=552&amp;format=opensearch" rel="search" title="Search pengadilan agama bangkalan" type="application/opensearchdescription+xml" />
+	<link href="/templates/abana_j3/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/cache/widgetkit/widgetkit-3f123000.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jcemediabox/css/jcemediabox.css?1d12bb5a40100bbd1841bfc0e498ce7b" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jcemediabox/themes/standard/css/style.css?50fba48f56052a048c5cf30829163e4d" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jce/css/content.css?d751aef8ef43d308d80d9eb8bb65b7d3" rel="stylesheet" type="text/css" />
+	<link href="/templates/abana_j3/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_popupaholic/css/jquery.gafancybox.min.css" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_sp_smart_slider/tmpl/maxima/css/sp-smart-maxima.css" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_marqueeaholic/css/marquee.css" rel="stylesheet" type="text/css" />
+	<link href="https://pa-bangkalan.go.id/modules/mod_junewsultra/tmpl/default/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="/components/com_roksprocket/layouts/tabs/themes/default/tabs.css" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_vvisit_counter/mvc.css" rel="stylesheet" type="text/css" />
+	<link href="https://pa-bangkalan.go.id/modules/mod_ebwhatsappchat/assets/css/whatapp_style.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+
+            a.flag {text-decoration:none;}
+            a.flag img {vertical-align:middle;padding:0;margin:0;border:0;display:inline;height:32px;opacity:0.8;}
+            a.flag:hover img {opacity:1;}
+            a.flag span {margin-right:5px;font-size:15px;vertical-align:middle;}
+        
+#sp-smart-slider111 .maxima-slider, #sp-smart-slider111 .maxima-slider .slider-item{
+    background-color: #056E4F;
+}
+#sp-smart-slider111 .maxima-slider{
+    height: 300px;
+}
+
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"452212557bc21c2b999fada0bf3e9026","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/jui/js/jquery.min.js?d751aef8ef43d308d80d9eb8bb65b7d3" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?d751aef8ef43d308d80d9eb8bb65b7d3" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?d751aef8ef43d308d80d9eb8bb65b7d3" type="text/javascript"></script>
+	<script src="/cache/widgetkit/widgetkit-a54d7018.js" type="text/javascript"></script>
+	<script src="/plugins/system/jcemediabox/js/jcemediabox.js?0c56fee23edfcb9fbdfe257623c5280e" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js?d751aef8ef43d308d80d9eb8bb65b7d3" type="text/javascript"></script>
+	<script src="/modules/mod_popupaholic/js/jquery.gafancybox.min.js" type="text/javascript"></script>
+	<script src="/modules/mod_popupaholic/js/jquery.gafancybox-media.min.js" type="text/javascript"></script>
+	<script src="/modules/mod_popupaholic/js/jquery.popup.js" type="text/javascript"></script>
+	<script src="/modules/mod_popupaholic/js/popper.js" type="text/javascript"></script>
+	<script src="/modules/mod_popupaholic/js/jquery-cookie.min.js" type="text/javascript"></script>
+	<script src="/modules/mod_sp_smart_slider/tmpl/maxima/js/maxima.slider.js" type="text/javascript"></script>
+	<script src="/modules/mod_marqueeaholic/js/jquery.marquee.min.js" type="text/javascript"></script>
+	<script src="/modules/mod_marqueeaholic/js/jquery.pause.js" type="text/javascript"></script>
+	<script src="/modules/mod_marqueeaholic/js/jquery.easing.min.js" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-core.js?d751aef8ef43d308d80d9eb8bb65b7d3" type="text/javascript"></script>
+	<script src="/media/system/js/core.js?d751aef8ef43d308d80d9eb8bb65b7d3" type="text/javascript"></script>
+	<script src="/components/com_roksprocket/assets/js/mootools-mobile.js" type="text/javascript"></script>
+	<script src="/components/com_roksprocket/assets/js/rokmediaqueries.js" type="text/javascript"></script>
+	<script src="/components/com_roksprocket/assets/js/roksprocket.js" type="text/javascript"></script>
+	<script src="/components/com_roksprocket/layouts/tabs/themes/default/tabs.js" type="text/javascript"></script>
+	<script type="text/javascript">
+(function(d){
+					  var js, id = 'powr-js', ref = d.getElementsByTagName('script')[0];
+					  if (d.getElementById(id)) {return;}
+					  js = d.createElement('script'); js.id = id; js.async = true;
+					  js.src = 'https://pa-bangkalan.go.id/plugins/content/powrshortcodes/powr_joomla.js';
+					  js.setAttribute('powr-token','r5axmiNd3b1631840351');
+					  js.setAttribute('external-type','joomla');
+					  ref.parentNode.insertBefore(js, ref);
+					}(document));
+JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'},cookie_expiry:"",google_viewer:0},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes",mediafallback:0,mediaselector:"audio,video"});
+    jQuery(function($){
+    $('#sp-smart-slider111 .maxima-slider').maximaSlider({
+    autoplay  : 1,
+    interval  : 7000,
+    fullWidth : false,
+    rWidth : 135,
+    rHeight : 58,
+    preloadImages:['https://pa-bangkalan.go.id/images/banners/Program_Prioritas_Ditjen_Badilag_2025.png','https://pa-bangkalan.go.id/images/slide/slide4.jpg','https://pa-bangkalan.go.id/images/slide/Banner_Online.jpg','https://pa-bangkalan.go.id/images/slide/Banner_Online__1_1.jpg','https://pa-bangkalan.go.id/images/slide/slide1.jpg','https://pa-bangkalan.go.id/images/banners/siwas2.png','https://pa-bangkalan.go.id/images/slide/Banner_Online.jpg'],
+});
+
+
+var OldTime;
+$('.layout-maxima .slider-controllers > ul li').on('click',function(event){
+event.stopPropagation();
+if( OldTime ){
+var DiffTime  = event.timeStamp-OldTime;
+if( DiffTime < 2000){
+return false;
+}
+} 
+
+OldTime=event.timeStamp;
+
+$('#sp-smart-slider111 .maxima-slider').maximaSlider('goTo', $(this).index() );
+$(this).parent().find('>li').removeClass('active');
+$(this).addClass('active');
+
+});
+
+$('#sp-smart-slider111 .maxima-slider').maximaSlider('onSlide', function(index){
+$('.layout-maxima .slider-controllers > ul li').removeClass('active');
+$('.layout-maxima .slider-controllers > ul li').get(index).addClass('active');
+});
+
+
+
+});
+
+jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+if (typeof RokSprocket == 'undefined') RokSprocket = {};
+Object.merge(RokSprocket, {
+	SiteURL: 'https://pa-bangkalan.go.id/',
+	CurrentURL: 'https://pa-bangkalan.go.id/',
+	AjaxURL: 'https://pa-bangkalan.go.id/index.php?option=com_roksprocket&amp;task=ajax&amp;format=raw&amp;ItemId=552'
+});
+
+window.addEvent('domready', function(){
+		RokSprocket.instances.tabs = new RokSprocket.Tabs();
+});
+
+window.addEvent('domready', function(){
+	RokSprocket.instances.tabs.attach(143, '{"autoplay":"1","delay":"3"}');
+});
+window.addEvent('load', function(){
+   var overridden = false;
+   if (!overridden && window.G5 && window.G5.offcanvas){
+       var mod = document.getElement('[data-tabs="143"]');
+       mod.addEvents({
+           touchstart: function(){ window.G5.offcanvas.detach(); },
+           touchend: function(){ window.G5.offcanvas.attach(); }
+       });
+       overridden = true;
+   };
+});
+
+	</script>
+
+<link rel="apple-touch-icon-precomposed" href="/templates/abana_j3/apple_touch_icon.png" />
+<link rel="stylesheet" href="/templates/abana_j3/css/uikit.css" />
+<link rel="stylesheet" href="/templates/abana_j3/css/base.css" />
+<link rel="stylesheet" href="/templates/abana_j3/css/extensions.css" />
+<link rel="stylesheet" href="/templates/abana_j3/css/tools.css" />
+<link rel="stylesheet" href="/templates/abana_j3/css/layout.css" />
+<link rel="stylesheet" href="/templates/abana_j3/css/menus.css" />
+<style>.wrapper, .uk-container { max-width: 1000px; }
+a { color: #093803; }
+.breadcrumbs a { color: #388ADE; }
+a:hover, #toolbar ul.menu li a:hover span, .menu-sidebar a.current, #Kunena dl.tabs dt:hover, .k2CommentItem a:hover  { color: #3992F0; }
+body, pre, .uk-tab > li.uk-active > a, li.result div, .k2CommentItem a { color: #472626; }
+html, body { background-color: #D9D5D5; }
+#showcase, #slide-zone { background-color: #056E4F; }
+#footer-block, #bottom-c, #newsletter { background-color: #056E4F; }
+#header { background-color: #FF9900; }
+.menu-dropdown li.level2, .menu-dropdown .dropdown-bg > div { background-color: #056E4F; }
+.menu-dropdown a.level1, .menu-dropdown span.level1, .menu-dropdown a.level2, .menu-dropdown span.level2, .menu-dropdown a.level3, .menu-dropdown span.level3, .tag-line, .dropdown-bg form.short input, .dropdown-bg form.short label, .dropdown-bg form.short a, .dropdown-bg form { color: #FFFFFF; }
+.menu-dropdown li.active .level1 { color: #FFFFFF; }
+.level1 span.subtitle { color: #FFFFFF; }
+.menu-dropdown a.level2:hover, .menu-dropdown a.level3:hover { background-color: #388ADE; }
+.menu-dropdown a.level2:hover, .menu-dropdown a.level3:hover, .menu-dropdown a.level2:hover span.subtitle { color: #FFFFFF; }
+.menu-dropdown a.current.level2, .menu-dropdown a.current.level3 { background-color: #388ADE; }
+.menu-dropdown a.current.level2, .menu-dropdown a.current.level3, .menu-dropdown a.current.level2 span.subtitle, #community-wrap .cToolBar .cHas-Childs ul a { color: #FFFFFF; }
+.menu-dropdown span.level2 > span { background-color: #FF9900; }
+.menu-dropdown .dropdown-bg > div { border: 6px solid #FF9900; }
+.colored .menu-sidebar a.level1, .colored .menu-sidebar span.level1, .colored .menu-sidebar a.level2, .colored .menu-sidebar span.level2, .colored .menu-sidebar a.level3, .colored .menu-sidebar span.level3, .colored .menu-sidebar a.level4, .colored .menu-sidebar span.level4, .colored .menu-sidebar ul.level2 ul { background-color: #F9F9F9; }
+.colored .menu-sidebar a, .colored .menu-sidebar li > span { color: #006600; }
+.colored a:hover, .colored span:hover, .colored .menu-sidebar li > span:hover { color: #FFFFFF; }
+.colored .menu-sidebar li.level1:hover, .colored .menu-sidebar a.level1:hover > span, .colored .menu-sidebar span.level1:hover > span, .colored .menu-sidebar a.level2:hover > span, .colored .menu-sidebar span.level1:hover > span { color: #FFFFFF; }
+.colored .menu-sidebar span.parent.active, .colored .menu-sidebar a.active.current, .colored .menu-sidebar a.active { color: #FFFFFF; }
+.colored .menu-sidebar span.parent.active, .colored .menu-sidebar a.active.current, .colored .menu-sidebar a.active { background-color: #3582D1; }
+.colored a:hover, .colored span:hover { background-color: #3582D1 !important; }
+.nav-tabs > li > a:hover, .pager li > a:hover { background-color: #FF9900; }
+h1 strong, h2 strong, h3 strong, h4 strong, h5 strong, h6 strong, .module-title .color { color: ; }
+h1, h2, h3, h4, h5, h6, blockquote strong, blockquote p strong, .result h3, header h1.title a, #community-wrap .cModule h3 { color: #006600; }
+.header-content .module-title, .header-content, #slide-zone, #slide-zone h2 { color: #FFFFFF; }
+a.button-color, .uk-button-color, button.button-color, input[type="submit"].button-color, input[type="submit"].subbutton, input[type="reset"].button-color, input[type="button"].button-color, #content .pagination strong, .event-time .month, .block-number .bottom, .section-title,  #kunena input[type="submit"].kbutton, #Kunena .klist-markallcatsread input.kbutton, #Kunena .kicon-button.kbuttoncomm, #kunena .kbutton.kreply-submit, #Kunena .kbutton-container button.validate, #kpost-buttons input[type="submit"].kbutton, #Kunena span.kheadbtn a, .sprocket-strips-arrows .arrow, .sprocket-lists-arrows .arrow, #community-wrap .cButton, #community-wrap .cButton-Black, #community-wrap .cButton-Blue, #community-wrap .cButton-Green, body #cWindow .cButton-Blue, body #cWindow .cButton, .uk-blog-date .uk-event-month, .uk-event-time .uk-event-month, .block-number .bottom, .tagspopular ul li a, .k2CategoriesListBlock li a, .k2CommentItem span.lcItemCategory, .k2CalendarBlock table.calendar tr td.calendarToday,  .sprocket-mosaic-filter li.active{ background-color: #FF9900 !important; }
+a.button-color, .uk-button-color, button.button-color, input[type="submit"].button-color, input[type="submit"].subbutton, input[type="reset"].button-color, input[type="button"].button-color, #content .pagination strong, .event-time .month, .block-number .bottom, .section-title, #kunena input[type="submit"].kbutton, #Kunena .klist-markallcatsread input.kbutton, #Kunena .kicon-button.kbuttoncomm span, #kunena .kbutton.kreply-submit, #Kunena .kbutton-container button.validate,  #kpost-buttons input[type="submit"].kbutton, #Kunena span.kheadbtn a, li.price-tag, .sprocket-strips-arrows .arrow, .sprocket-lists-arrows .arrow, #community-wrap .cButton, #community-wrap .cButton-Black, #community-wrap .cButton-Blue, #community-wrap .cButton-Green, body #cWindow .cButton-Blue, body #cWindow .cButton, .th .title, .uk-blog-date .uk-event-month, .uk-event-time .uk-event-month, .block-number .bottom, .tagspopular ul li a, .k2CategoriesListBlock li a, .k2CommentItem span.lcItemCategory a, .k2CalendarBlock table.calendar tr td.calendarToday, .sprocket-mosaic-filter li.active{ color: #FFFFFF !important; }
+.mejs-controls .mejs-time-rail .mejs-time-loaded, #community-wrap .innerpgbar, .innerpgbar { background-color: #3179C3 !important; }
+.mod-color { background-color: #3179C3; }
+.mod-color { color: #FFFFFF; }
+.tag-body, .tag-body:hover, .tag-body, .tag-body .tag:before, .sprocket-mosaic .sprocket-mosaic-tags li, #main .sprocket-mosaic ul.sprocket-mosaic-tags li { color: #FFFFFF !important; }
+.tag-body, .tag-body .tag:before, .sprocket-mosaic .sprocket-mosaic-tags li, #main .sprocket-mosaic ul.sprocket-mosaic-tags li { background-color: #3179C3; }
+#community-wrap .cPageTabs li.cTabCurrent a, #community-wrap .cAlert.alert-success{ background: ;}
+#community-wrap .cToolBar { border-bottom: 4px solid #056E4F; }
+#community-wrap .cToolBar .cHas-Childs ul a:hover { background-color: #388ADE; }
+#community-wrap .cStream-Respond>div  { box-shadow: -4px 0 0 #BFCDDB; }
+#community-wrap .cToolBar .cMenu-Text>a.active, #community-wrap .cToolBar .cMenu-Text:hover>a .cHas-Childs ul li, #community-wrap .cToolBar .cHas-Childs ul li { border-color: rgba(0, 0, 0, 0.16); }
+#community-wrap .cToolBar .cMenu-Text>a.active, #community-wrap .cToolBar .cMenu-Text:hover>a, #community-wrap .cToolBar .cHas-Childs ul a, #community-wrap .cToolBar .cHas-Childs ul { background-color: #056E4F; }
+#community-wrap .cPageTabs li.cTabCurrent a, #community-wrap .cAlert.alert-success, #community-wrap .cToolBar, #community-wrap .cPageAdmin, #community-wrap .cFilter .filters li.active a, #community-wrap .cFilter .filters li.active a:hover, #community-wrap .cTabsMenu li a:focus, #community-wrap .cTabsMenu li a.selected, #community-wrap .cThumb-Calendar, #community-wrap .cThumb-Calendar b { background-color: #BFCDDB; }
+#community-wrap .cPageTabs li.cTabCurrent a, #community-wrap .cAlert.alert-success, #community-wrap .cToolBar, #community-wrap .cPageAdmin, #community-wrap .cFilter .filters li.active a, #community-wrap .cFilter .filters li.active a:hover, #community-wrap .cTabsMenu li a:focus, #community-wrap .cTabsMenu li a.selected { color: ; }
+#community-wrap .cToolBar .cHas-Childs ul a { color: #FFFFFF; }
+.price-tag { background-color: #056E4F !important; }
+.th .bottom, .th { background-color: #056E4F; }
+.uk-progress .uk-progress-bar { background-color: #FF9900; }
+.uk-badge, .uk-progress-primary .uk-progress-bar, .uk-button-primary, .uk-button-primary:active, .uk-button-primary.uk-active, .uk-button-primary:hover, .uk-button-primary:focus { background-color: #559FCF; }
+.uk-badge-success, .uk-progress-success .uk-progress-bar, .uk-button-success, .uk-button-success:hover, .uk-button-success:focus, .uk-button-success:active, .uk-button-success.uk-active { background-color: #99B11C; }
+.uk-badge-danger, .uk-button-danger, .uk-progress-danger .uk-progress-bar, .uk-button-danger:active, .uk-button-danger.uk-active, .uk-button-danger:hover, .uk-button-danger:focus, #k2Container h1 > sup { background-color: #D32B2B; }
+.uk-progress-warning .uk-progress-bar, .uk-badge-warning { background-color: #FFA322; }
+#sidebar-b { width: 23%; }
+#maininner { width: 77%; }
+#menu .dropdown { width: 250px; }
+#menu .columns2 { width: 500px; }
+#menu .columns3 { width: 750px; }
+#menu .columns4 { width: 1000px; }</style>
+<link rel="stylesheet" href="/templates/abana_j3/css/modules.css" />
+<link rel="stylesheet" href="/templates/abana_j3/css/system.css" />
+<link rel="stylesheet" href="/templates/abana_j3/css/k2.css" />
+<link rel="stylesheet" href="/templates/abana_j3/css/font1/istok.css" />
+<link rel="stylesheet" href="/templates/abana_j3/css/font2/istok.css" />
+<link rel="stylesheet" href="/templates/abana_j3/css/font3/istok.css" />
+<link rel="stylesheet" href="/templates/abana_j3/css/font4/istok.css" />
+<link rel="stylesheet" href="/templates/abana_j3/css/responsive.css" />
+<link rel="stylesheet" href="/templates/abana_j3/css/print.css" />
+<link rel="stylesheet" href="/templates/abana_j3/css/custom.css" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Istok+Web" />
+<script src="/templates/abana_j3/warp/js/warp.js"></script>
+<script src="/templates/abana_j3/warp/js/responsive.js"></script>
+<script src="/templates/abana_j3/warp/js/accordionmenu.js"></script>
+<script src="/templates/abana_j3/warp/js/dropdownmenu.js"></script>
+<script src="/templates/abana_j3/warp/js/uikit.min.js"></script>
+<script src="/templates/abana_j3/js/template.js"></script>
+<style>
+	/*custom css*/
+#main{
+margin-top:13px;
+}
+
+#maininner {
+    color:#006600
+}
+
+#innertop {
+    margin-top: -10px!important;
+}
+
+#system > .description {
+    margin-top: 20px;
+}
+#system .filter > div {
+	margin: 12px 10px 0 0;
+	float: left;
+}
+
+#system .item > header {
+    display: none;
+}
+
+#header
+{
+  background-color: #ff7f00;
+border-top: 23px solid #056E4F;
+    border-bottom-color: #fff000;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+height: 53px!important;
+ }
+
+#breadcrumbs
+{background-color: #ff7f00;
+    border-top: 1px #fff000 solid;
+    border-bottom: 1px #fff000 solid;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.breadcrumbs a, .breadcrumbs > span {
+    margin-left: 0;
+    margin-right: -5px;
+    padding-left: 0;
+    padding-right: 10px;
+}
+
+.junewsultra {
+    margin-bottom: 0;}
+
+.junewsultra .jn .jn-right h4 {
+    font-size: 100%!important;
+    font-weight: normal;
+    line-height: 135%;
+     margin-left: 0px;
+    margin-top: -9px;;
+}
+
+.junewsultra .jn-head, .junewsultra .jn .jn-intro, .junewsultra .jn .jn-more {
+    clear: both;
+    padding-bottom: 0;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 7px;
+}
+
+.junewsultra .jn .jn-right {
+    float: left;
+    margin-top: 6px;
+    width: 78%;
+}
+
+.jn-head {
+    height: 70px !important;
+}
+
+.junewsultra .jn .jn-left img {
+border-bottom-width: 3px;
+border-left-width: 3px;
+border-right-width: 3px;
+border-top-width: 3px;
+margin-top: 0px;
+}
+
+.junewsultra .jn {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-bottom-color: rgba(149, 153, 160, 0.5);
+    border-bottom-style: dotted;
+    border-bottom-width: 1px;}
+
+.junewsultra .jn a, .junewsultra .jn a:link, .junewsultra .jn a:visited {color: #006600 !important;}
+
+.call-action {
+    display: block;
+    float: right;
+    padding-bottom: 0px!important;
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-top: 10px!important;
+    text-align: right;
+    margin-bottom: 13px;
+}
+
+.style03_tab .ju-tabs-title-top ul.ju-tabs-title li.active h3 {
+    background-color: #056E4F!important;
+}
+.style03_tab.ju-tabs-wrap .ju-tabs-panel {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent!important;
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    border-bottom-color: #d9d5d5;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-source: none;
+    border-image-width: 1 1 1 1;
+    border-left-color: #d9d5d5;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: #d9d5d5;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: #d9d5d5;
+    border-top-style: solid;
+    border-top-width: 1px;
+box-shadow: 0 1px 50px rgba(0, 0, 0, 0.15) inset;
+}
+.uk-alert-success {
+    background-color: rgba(0, 0, 0, 0.06);
+}
+
+.uk-grid {
+
+    color: #006600;
+}
+
+.uk-event {
+    color: #006600;
+}
+
+#menubar{
+    border-bottom-color: #fff000;
+    border-bottom-width: 1px !important;
+    border-top-color: #fff000;
+    border-top-style: solid;
+    border-top-width: 1px;
+}
+#bottom-b .module-title {
+    color: #ff9900;
+}
+
+#bottom-b{
+margin-top: 10px!important;
+}
+
+.uk-icon-bookmark-o::before {
+       color: #fff;
+}
+
+.mod-white .module-title{
+ background-color: #056e4f !important;
+    color: #fff;
+    margin-bottom: 2px !important;
+    margin-left: -10px !important;
+    margin-right: -15px !important;
+    margin-top: -11px !important;
+    padding-left: 10px !important;
+    padding-top: 13px !important;
+    border-top-right-radius: 11px!important;
+    border-top-left-radius: 4px!important;
+	}
+
+.mod-white{
+margin-left: -5px!important;
+margin-top: 0px!important;
+padding-top: 11px!important;
+-moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color:transparent;
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    border-bottom-color: #d9d5d5;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-source: none;
+    border-image-width: 1 1 1 1;
+    border-left-color: #d9d5d5;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: #d9d5d5;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: #d9d5d5;
+    border-top-style: solid;
+    border-top-width: 1px;
+box-shadow: transparent;
+}
+.mod-white:hover{
+box-shadow: 1px 1px 30px rgba(0, 0, 0, 0.1) inset, 1px 1px 15px rgba(0, 0, 0, 0.25), 0 0 0 1px rgba(255, 255, 255, 0.5) inset;
+position: relative;
+transition-delay: 0s;
+    transition-duration: 0.3s;
+    transition-property: all;
+    transition-timing-function: linear;
+}
+.module-icon{
+margin-bottom: 5px;
+margin-left: 0px;
+margin-right: 22px;
+margin-top: 0px;
+}
+
+#sidebar-b .mod-box{
+margin-top: 12px !important;
+    padding-bottom: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px !important;
+}
+
+.wk-slideshow-content .caption h3{
+font-size: 35px;
+margin-top: -20px;
+margin-left: -25px;
+}
+.caption p{
+margin-left: -25px;
+margin-right: 30px;
+margin-top: -21px;
+padding-bottom: 15px;
+padding-top: 15px;
+}
+
+.module {
+    margin-left: 7px;}
+
+#top-a{
+padding-left: 15px;
+margin-top: 22px;
+padding-top: 8px;
+background-color: #cfc4c4;
+border-top-color: #e7e7e7;
+border-top-style: double;
+border-top-width: medium;
+margin-bottom: -15px !important;
+}
+#search {
+    margin-left: 15px;
+    margin-top: -30px;}
+	
+#toolbar .float-left .module, #toolbar .float-left > time {
+    float: left;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 110px;
+    margin-top: 5px;}
+
+.btn-large {
+    font-size: 16px;
+    text-align: center;
+}
+
+.menu-dropdown .dropdown-bg > div {
+    border-width: 4px;
+}
+
+.menu-dropdown a.level1 > span, .menu-dropdown span.level1 > span {
+    padding-left: 13px!important;
+    padding-right: 13px!important;}
+    
+.menu-dropdown a.level2 {
+    box-shadow: none !important;
+    padding-left: 12px!important;
+    padding-bottom: 0px !important;
+    margin-top: -6px!important;
+    margin-bottom: -6px!important;}
+
+.menu-dropdown span.level2 > span {
+    background-color: !important;
+    background-image: none !important;
+    border-bottom-width: 0;
+    border-top-width: 0 !important;
+    margin-bottom: 0px !important;
+    margin-left: 0 !important;
+    margin-top: 0px !important;
+    text-transform: none !important;
+    padding-bottom: 0px!important;
+    padding-top: 0px!important;
+}
+
+.menu-dropdown ul.level3 {
+    padding-bottom: 0px;}
+
+.menu-dropdown .level3 {
+    padding-bottom: 1px;
+    padding-top: 1px;
+padding-left:8px;}
+
+.menu-dropdown .level4 {
+padding-left: 7px;
+color: #ffffff;}
+
+.menu-dropdown .level4 {
+padding-bottom: 1px;
+padding-top: 1px;
+padding-left: 7px;
+color: #ffffff;
+}
+
+
+.ztvc-visitor-counter {
+    height: auto;
+    margin-top: 0px;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
+}
+
+.ztvc-content-counter {
+    padding-bottom: 0;
+    padding-left: 4px;
+    padding-right: 12px;
+    padding-top: 0;
+}
+
+.ztvc-icon-agent .ztvc-column {
+    height: 20px;
+    margin-left: 3px;
+    margin-right: 15px;
+}
+
+.sprocket-tabs-panels {
+-moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent!important;
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    border-bottom-color: #d9d5d5;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-source: none;
+    border-image-width: 1 1 1 1;
+    border-left-color: #d9d5d5;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: #d9d5d5;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: #d9d5d5;
+    border-top-style: solid;
+    border-top-width: 1px;
+    color: #006600;
+}
+
+.sprocket-tabs-nav > li > .sprocket-tabs-inner {
+font-size: 14px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+background-color: #fff;
+}
+
+.sprocket-tabs-nav > li.active > .sprocket-tabs-inner {
+background-color: #056E4F;
+    color: #fff;
+}
+
+#content {
+    margin-bottom: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 0px;
+}
+
+.uk-event {
+    clear: both;
+    padding-top: 12px;
+}
+
+.uk-blog-date .uk-event-date, .uk-event-time .uk-event-date, .block-number .digit 
+{margin-top: -8px;}
+
+.mod-color, .mod-white, .mod-dark {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+}
+
+.uk-alert {
+background-color: rgba(0,0,0,0.10);
+border: 1px solid;
+border-color: rgba(0, 0, 0, 0.1);
+}
+
+#tab {
+    margin-left: 5px;
+    margin-right: 13px;
+    margin-top: -25px;
+}
+
+ul.zebra > li:nth-of-type(2n+1), table.zebra tbody tr:nth-of-type(2n+1) {
+background-color: transparent;
+}
+
+.pricing > .price-col:nth-of-type(2n+1), .pricing > .price-col:nth-of-type(2n+2) {
+border: 1px solid;
+border-color: rgba(0, 0, 0, 0.1)
+}
+
+.colored .menu-sidebar li.level1 {
+    width: 220px;
+    margin-left: -20px;
+}
+
+.colored .menu-sidebar a.level1, .colored .menu-sidebar span.level1 {
+    background-color: #f9f9f9;
+    box-shadow: 0 -1px 0 1px rgba(255, 255, 255, 0.25) inset, 0 -20px 25px rgba(0, 0, 0, 0.024) inset;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 7px;
+    padding-top: 5px;
+}
+
+#sidebar-b .module-title {
+margin-left: -20px;
+}
+
+.module .module-title {
+    margin-bottom: 6px;
+}
+ul.line > li > a:first-child, ul.check > li > a:first-child {
+    display: block;
+    color: #006600!important;
+}
+
+.ztvc-visitor-counter {
+    color: #006600;
+}
+
+p.dropcap::first-letter {
+    font-size: 345%;
+}
+
+.dropcap {
+    color: #006600;
+}
+
+.meta1 {
+    border-bottom-color: #999;
+    border-bottom-style: dotted;
+    border-bottom-width: 1px;
+    color: #999;
+    font-style: italic;
+    margin-bottom: 15px;
+    margin-top: 12px;
+}
+
+#bottom-b .dotted {
+    color: #fff !important;
+}
+
+#bottom-b .dotted a {
+    color: #fff !important;
+}
+
+#bottom-b {
+    border-bottom-width: 2px;
+padding-bottom: 0px;
+padding-top: 10px;
+}
+
+#newsletter {
+box-shadow: unset;
+padding-top: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+}
+
+#slide-zone {
+    box-shadow: 0px 64px 9px -9px rgba(0, 0, 0, 0.75);
+}</style>
+</head>
+
+<body id="page" class="page sidebar-b-right sidebars-1  isblog  bg_texture_0 bg-light" data-config='{"twitter":0,"plusone":0,"facebook":0,"style":"default"}'>
+	
+	<div class="wrapper grid-block">
+		
+		<div id="toolbar" class="grid-block">
+
+								<div class="float-left">
+				
+											<time datetime="2025-07-02">Wednesday, 02 July 2025</time>
+									
+					<div class="module   deepest">
+
+			
+<div 
+	 >
+	<p style="text-align: justify;"><img src="/images/banners/bangkalan/banner1.png" alt="banner1" width="702" height="121" /></p></div>		
+</div>						
+				</div>
+									
+									<div class="float-right search-box">
+						<div id="search">
+<form id="searchbox-63" class="uk-search searchbox" action="/" method="post" role="search" data-uk-search>
+	<input type="text" value="" name="searchword" placeholder="search..." />
+	<button class="uk-search-close" type="reset" value="Reset"></button>
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="552" />	
+</form>
+
+<script src="/templates/abana_j3/warp/js/search.js"></script>
+<script>
+jQuery(function($) {
+	$('#searchbox-63 input[name=searchword]').search({'url': '/component/search/?tmpl=raw&amp;type=json&amp;ordering=&amp;searchphrase=all', 'param': 'searchword', 'msgResultsHeader': 'Search Results', 'msgMoreResults': 'More Results', 'msgNoResults': 'No results found'}).placeholder();
+});
+</script>
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+function GTranslateGetCurrentLang() {var keyValue = document.cookie.match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className=='goog-te-combo')teCombo=sel[i];if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+/* ]]> */
+</script>
+<div id="google_translate_element2"></div>
+<script type="text/javascript">function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'id', autoDisplay: false}, 'google_translate_element2');}</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+
+<a href="#" onclick="doGTranslate('id|id');return false;" title="Indonesian" class="flag nturl notranslate"><img src="/modules/mod_gtranslate/tmpl/lang/32/id.png" height="32" width="32" alt="id" /></a><a href="#" onclick="doGTranslate('id|ar');return false;" title="Arabic" class="flag nturl notranslate"><img src="/modules/mod_gtranslate/tmpl/lang/32/ar.png" height="32" width="32" alt="ar" /></a><a href="#" onclick="doGTranslate('id|nl');return false;" title="Dutch" class="flag nturl notranslate"><img src="/modules/mod_gtranslate/tmpl/lang/32/nl.png" height="32" width="32" alt="nl" /></a><a href="#" onclick="doGTranslate('id|en');return false;" title="English" class="flag nturl notranslate"><img src="/modules/mod_gtranslate/tmpl/lang/32/en-us.png" height="32" width="32" alt="en" /></a><a href="#" onclick="doGTranslate('id|fr');return false;" title="French" class="flag nturl notranslate"><img src="/modules/mod_gtranslate/tmpl/lang/32/fr.png" height="32" width="32" alt="fr" /></a><a href="#" onclick="doGTranslate('id|ms');return false;" title="Malay" class="flag nturl notranslate"><img src="/modules/mod_gtranslate/tmpl/lang/32/ms.png" height="32" width="32" alt="ms" /></a></div>
+					</div>
+				
+							</div>
+
+		<div class="sheet">
+		 <div class="sheet-body">
+		 	<header id="header">
+
+				<div id="headerbar" class="grid-block">
+												<a id="logo" href="https://pa-bangkalan.go.id">								<span class="size-auto"></span>
+							</a>
+						
+											
+									</div>
+
+			<div id="menubar" class="grid-block">
+								<nav id="menu"><ul class="menu menu-dropdown">
+<li class="level1 item552 active current hassubtitle"><a href="/" class="level1 active current"><span><span class="title">Beranda</span><span class="subtitle">Halaman Utama</span></span></a></li><li class="level1 item233 parent hassubtitle"><span class="separator level1 parent"><span><span class="title">Tentang Pengadilan</span><span class="subtitle">Profil Satker</span></span></span>
+<div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="nav-child unstyled small level2"><li class="level2 item489"><a href="/tentang-pengadian/pengantar-dari-ketua-pengadilan" class="level2"><span>Pengantar Ketua Pengadilan</span></a></li><li class="level2 item490"><a href="/tentang-pengadian/visi-dan-misi" class="level2"><span>Visi dan Misi</span></a></li><li class="level2 item491 parent"><span class="separator level2 parent"><span>Profile Pengadilan</span></span>
+<ul class="nav-child unstyled small level3"><li class="level3 item492"><a href="/tentang-pengadian/profile-pengadilan/sejarah-pengadilan" class="level3"><span>Sejarah Pengadilan</span></a></li><li class="level3 item493"><a href="/tentang-pengadian/profile-pengadilan/struktur-organisasi" class="level3"><span>Struktur Organisasi</span></a></li><li class="level3 item494"><a href="/tentang-pengadian/profile-pengadilan/alamat-pengadilan" class="level3"><span>Alamat Pengadilan</span></a></li><li class="level3 item495"><a href="/tentang-pengadian/profile-pengadilan/statistik-pengadilan" target="_blank" class="level3"><span>Statistik Pegawai</span></a></li><li class="level3 item496"><a href="/tentang-pengadian/profile-pengadilan/wilayah-yurisdiksi" class="level3"><span>Wilayah Yurisdiksi</span></a></li><li class="level3 item608"><a href="/tentang-pengadian/profile-pengadilan/tugas-pokok-dan-fungsi" class="level3"><span>Tugas Pokok dan Fungsi</span></a></li><li class="level3 item747"><a href="/tentang-pengadian/profile-pengadilan/peta-yurisdiksi" class="level3"><span>Peta Yurisdiksi</span></a></li><li class="level3 item760"><a href="/tentang-pengadian/profile-pengadilan/unit-pelaksana-teknis-kesekretariatan" class="level3"><span>Unit Pelaksana Teknis Kesekretariatan</span></a></li><li class="level3 item763"><a href="/tentang-pengadian/profile-pengadilan/daftar-nama-mantan-pimpinan" class="level3"><span>Daftar Nama Mantan Pimpinan</span></a></li><li class="level3 item771"><a href="/tentang-pengadian/profile-pengadilan/fasilitas-publik" class="level3"><span>Fasilitas Publik</span></a></li></ul></li><li class="level2 item811 parent"><span class="separator level2 parent"><span>Profil Pegawai</span></span>
+<ul class="nav-child unstyled small level3"><li class="level3 item812 parent"><span class="separator level3 parent"><span>Pimpinan &amp; Hakim</span></span>
+<ul class="nav-child unstyled small level4"><li class="level4 item813"><a href="/tentang-pengadian/profil-pegawai/pimpinan-hakim/ketua" class="level4"><span>Ketua</span></a></li><li class="level4 item814"><a href="/tentang-pengadian/profil-pegawai/pimpinan-hakim/wakil-ketua" class="level4"><span>Wakil Ketua</span></a></li><li class="level4 item815"><a href="/tentang-pengadian/profil-pegawai/pimpinan-hakim/hakim" class="level4"><span>Hakim</span></a></li></ul></li><li class="level3 item816 parent"><span class="separator level3 parent"><span>Kepaniteraan</span></span>
+<ul class="nav-child unstyled small level4"><li class="level4 item817"><a href="/tentang-pengadian/profil-pegawai/kepaniteraan/panitera" class="level4"><span>Panitera</span></a></li><li class="level4 item818"><a href="/tentang-pengadian/profil-pegawai/kepaniteraan/panitera-muda" class="level4"><span>Panitera Muda</span></a></li><li class="level4 item819"><a href="/tentang-pengadian/profil-pegawai/kepaniteraan/panitera-pengganti" class="level4"><span>Panitera Pengganti</span></a></li><li class="level4 item820"><a href="/tentang-pengadian/profil-pegawai/kepaniteraan/jurusita" class="level4"><span>Jurusita</span></a></li><li class="level4 item821"><a href="/tentang-pengadian/profil-pegawai/kepaniteraan/jurusita-pengganti" class="level4"><span>Jurusita Pengganti</span></a></li><li class="level4 item827"><a href="/tentang-pengadian/profil-pegawai/kepaniteraan/fungsional-pelaksana" class="level4"><span>Fungsional/Pelaksana</span></a></li></ul></li><li class="level3 item822 parent"><span class="separator level3 parent"><span>Kesekretariatan</span></span>
+<ul class="nav-child unstyled small level4"><li class="level4 item823"><a href="/tentang-pengadian/profil-pegawai/kesekretariatan/sekretaris" class="level4"><span>Sekretaris</span></a></li><li class="level4 item824"><a href="/tentang-pengadian/profil-pegawai/kesekretariatan/kepala-sub-bagian" class="level4"><span>Kepala Sub Bagian</span></a></li><li class="level4 item825"><a href="/tentang-pengadian/profil-pegawai/kesekretariatan/fungsional-pelaksana" class="level4"><span>Fungsional/Pelaksana</span></a></li></ul></li><li class="level3 item826"><a href="/tentang-pengadian/profil-pegawai/honorer" class="level3"><span>Honorer</span></a></li></ul></li><li class="level2 item498 parent"><span class="separator level2 parent"><span>Sistem Pengelolaan Pengadilan</span></span>
+<ul class="nav-child unstyled small level3"><li class="level3 item499"><a href="/tentang-pengadian/sistem-pengelolaan-pengadilan/e-learning" target="_blank" class="level3"><span>E Learning</span></a></li><li class="level3 item502"><a href="/tentang-pengadian/sistem-pengelolaan-pengadilan/rencana-strategis" class="level3"><span>Rencana Strategis</span></a></li><li class="level3 item503"><a href="/transparansi-keterbukaan-informasi/transparansi-anggaran/rkakl-dipa" class="level3"><span>Rencana Kerja dan Anggaran</span></a></li><li class="level3 item504"><a href="/tentang-pengadian/sistem-pengelolaan-pengadilan/pengawasan-dan-kode-etik-hakim" class="level3"><span>Pedoman Pengawasan</span></a></li><li class="level3 item833"><a href="/tentang-pengadian/sistem-pengelolaan-pengadilan/kode-etik-hakim" class="level3"><span>Kode Etik Hakim</span></a></li><li class="level3 item732"><a href="/tentang-pengadian/sistem-pengelolaan-pengadilan/maklumat-pelayanan" class="level3"><span>Maklumat Pelayanan</span></a></li><li class="level3 item757"><a href="/tentang-pengadian/sistem-pengelolaan-pengadilan/pedoman-pengelolaan-kepaniteraan" class="level3"><span>Pedoman Pengelolaan Kepaniteraan</span></a></li><li class="level3 item759"><a href="/tentang-pengadian/sistem-pengelolaan-pengadilan/pedoman-pengelolaan-kesekretariatan" class="level3"><span>Pedoman Pengelolaan Kesekretariatan</span></a></li></ul></li><li class="level2 item650 parent"><span class="separator level2 parent"><span>Standar Operasional Prosedur</span></span>
+<ul class="nav-child unstyled small level3"><li class="level3 item840"><a href="/tentang-pengadian/standar-operasional-prosedur/all-sop" class="level3"><span>Standar Operasional Prosedur (SOP)</span></a></li><li class="level3 item734"><a href="/tentang-pengadian/standar-operasional-prosedur/prosedur-peringatan-dini-dan-evakuasi" class="level3"><span>Prosedur Peringatan Dini dan Evakuasi</span></a></li></ul></li><li class="level2 item828"><a href="/tentang-pengadian/formasi-pegawai" class="level2"><span>Formasi Pegawai</span></a></li><li class="level2 item810"><a href="/tentang-pengadian/sosial-media" class="level2"><span>Sosial Media</span></a></li><li class="level2 item505"><a href="/tentang-pengadian/survey-pelayanan-publik" class="level2"><span>Laporan Survey</span></a></li><li class="level2 item733"><a href="/tentang-pengadian/perjanjian-dengan-pihak-ketiga" class="level2"><span>Perjanjian Dengan Pihak Ketiga</span></a></li></ul></div></div></div></div></li><li class="level1 item485 parent hassubtitle"><span class="separator level1 parent"><span><span class="title">Layanan Publik</span><span class="subtitle">Informasi/Pengaduan</span></span></span>
+<div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="nav-child unstyled small level2"><li class="level2 item506 parent"><span class="separator level2 parent"><span>Informasi Layanan Pengadilan</span></span>
+<ul class="nav-child unstyled small level3"><li class="level3 item507"><a href="/layanan-publik/informasi-layanan-pengadilan/jam-kerja-kantor" class="level3"><span>Jam Kerja Kantor</span></a></li><li class="level3 item508"><a href="/layanan-publik/informasi-layanan-pengadilan/tata-tertib-persidangan" class="level3"><span>Tata Tertib Persidangan</span></a></li><li class="level3 item761"><a href="/layanan-publik/informasi-layanan-pengadilan/sop-pelayanan-publik" class="level3"><span>SOP Pelayanan Publik</span></a></li></ul></li><li class="level2 item510 parent"><span class="separator level2 parent"><span>Layanan Informasi Publik</span></span>
+<ul class="nav-child unstyled small level3"><li class="level3 item512"><a href="/layanan-publik/layanan-informasi-publik/kategorisasi-informasi" class="level3"><span>Kategorisasi Informasi</span></a></li><li class="level3 item513"><a href="/layanan-publik/layanan-informasi-publik/prosedur-permohonan-informasi" class="level3"><span>Prosedur Permohonan Informasi</span></a></li><li class="level3 item631"><a href="/layanan-publik/layanan-informasi-publik/jangka-waktu-penyelesaian-pelayanan" class="level3"><span>Jangka Waktu Penyelesaian Pelayanan</span></a></li><li class="level3 item632"><a href="/layanan-publik/layanan-informasi-publik/biaya-tarif-pelayanan-informasi" class="level3"><span>Biaya/Tarif Pelayanan Informasi</span></a></li><li class="level3 item633"><a href="/layanan-publik/layanan-informasi-publik/produk-pelayanan-informasi" class="level3"><span>Produk Pelayanan Informasi</span></a></li><li class="level3 item634"><a href="/layanan-publik/layanan-informasi-publik/hak-hak-pemohon-informasi" class="level3"><span>Hak-hak Pemohon Informasi</span></a></li><li class="level3 item707"><a href="/layanan-publik/layanan-informasi-publik/hak-hak-pemohon-informasi-2" class="level3"><span>Laporan Akses Informasi</span></a></li><li class="level3 item740"><a href="/layanan-publik/layanan-informasi-publik/nomor-kontak-pihak-pihak-yang-bertanggung-jawab-atas-pelayanan-informasi-dan-penanganan-keberatan" class="level3"><span>Nomor Kontak Pihak yang Bertanggung jawab Pelayanan Informasi dan Penanganan Keberatan</span></a></li><li class="level3 item765"><a href="/layanan-publik/layanan-informasi-publik/formulir-permohonan-informasi" class="level3"><span>Formulir Permohonan Informasi</span></a></li><li class="level3 item766"><a href="/layanan-publik/layanan-informasi-publik/petugas-informasi-dan-ptsp" class="level3"><span>Petugas Informasi dan PTSP</span></a></li></ul></li><li class="level2 item514 parent"><span class="separator level2 parent"><span>Layanan Informasi Perkara</span></span>
+<ul class="nav-child unstyled small level3"><li class="level3 item515"><a href="/layanan-publik/layanan-informasi-perkara/jadwal-sidang" class="level3"><span>Jadwal Sidang</span></a></li><li class="level3 item516"><a href="/layanan-publik/layanan-informasi-perkara/penelusuran-perkara" class="level3"><span>Penelusuran Perkara</span></a></li><li class="level3 item517"><a href="/layanan-publik/layanan-informasi-perkara/direktori-putusan" class="level3"><span>Direktori Putusan</span></a></li><li class="level3 item708"><a href="/layanan-publik/layanan-informasi-perkara/informasi-register-perkara" class="level3"><span>Informasi Register Perkara</span></a></li><li class="level3 item778"><a href="/layanan-publik/layanan-informasi-perkara/delegasi-masuk" class="level3"><span>Delegasi Masuk</span></a></li><li class="level3 item518"><a href="/layanan-publik/layanan-informasi-perkara/delegasi" class="level3"><span>Delegasi Keluar</span></a></li><li class="level3 item797"><a href="/layanan-publik/layanan-informasi-perkara/panggilan-ghoib" class="level3"><span>Panggilan Ghoib</span></a></li><li class="level3 item834"><a href="/layanan-publik/layanan-informasi-perkara/contoh-surat-gugatan" class="level3"><span>Contoh Surat Gugatan</span></a></li></ul></li><li class="level2 item604 parent"><span class="separator level2 parent"><span>Layanan Pengaduan</span></span>
+<ul class="nav-child unstyled small level3"><li class="level3 item528"><a href="/layanan-publik/layanan-pengaduan/tata-cara-pengaduan" class="level3"><span>Tata Cara Pengaduan</span></a></li><li class="level3 item605"><a href="/layanan-publik/layanan-pengaduan/mekanisme-penyelesaian" class="level3"><span>Mekanisme Penyelesaian</span></a></li><li class="level3 item606"><a href="/layanan-publik/layanan-pengaduan/alamat-kontak-pengaduan" class="level3"><span>Alamat/Kontak Pengaduan</span></a></li><li class="level3 item607"><a href="/layanan-publik/layanan-pengaduan/jangka-waktu-penyelesaian-pengaduan" class="level3"><span>Jangka Waktu Penyelesaian Pengaduan</span></a></li><li class="level3 item630"><a href="/layanan-publik/layanan-pengaduan/laporan-rekapitulasi-pengaduan" class="level3"><span>Laporan Rekapitulasi Pengaduan</span></a></li><li class="level3 item790"><a href="/layanan-publik/layanan-pengaduan/link-siwas-mari" class="level3"><span>Link SIWAS MARI</span></a></li><li class="level3 item832"><a href="/layanan-publik/layanan-pengaduan/statistik-pengaduan" class="level3"><span>Statistik Pengaduan</span></a></li></ul></li><li class="level2 item525 parent"><span class="separator level2 parent"><span>Pengumuman</span></span>
+<ul class="nav-child unstyled small level3"><li class="level3 item526"><a href="/layanan-publik/pengumuman/lelang-barang-dan-jasa" class="level3"><span>Lelang Barang dan Jasa</span></a></li><li class="level3 item527"><a href="/layanan-publik/pengumuman/kegiatan-pengadian" class="level3"><span>Kegiatan Pengadilan</span></a></li><li class="level3 item769"><a href="/layanan-publik/pengumuman/ucapan-selamat-duka-cita" class="level3"><span>Ucapan Selamat/Duka Cita</span></a></li><li class="level3 item768"><a href="/layanan-publik/pengumuman/arsip-pengumuman" class="level3"><span>Arsip Pengumuman</span></a></li><li class="level3 item720"><a href="/layanan-publik/pengumuman/pengumuman-pengadaan-barang-dan-jasa" class="level3"><span>Pengumuman Rencana Pengadaan Barang dan Jasa</span></a></li><li class="level3 item796"><a href="/layanan-publik/pengumuman/statistik-pengunjung-website" class="level3"><span>Statistik Pengunjung Website</span></a></li><li class="level3 item835"><a href="/layanan-publik/pengumuman/pengambilan-uang-sisa-panjar" class="level3"><span>Pengambilan Uang Sisa Panjar</span></a></li></ul></li></ul></div></div></div></div></li><li class="level1 item486 parent hassubtitle"><span class="separator level1 parent"><span><span class="title">Layanan Hukum</span><span class="subtitle">Prosedur &amp; Bantuan Hukum</span></span></span>
+<div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="nav-child unstyled small level2"><li class="level2 item529 parent"><span class="separator level2 parent"><span>Layanan Perkara Prodeo</span></span>
+<ul class="nav-child unstyled small level3"><li class="level3 item530"><a href="/layanan-hukum/layanan-perkara-prodeo/prosedur" class="level3"><span>Syarat dan Prosedur Berperkara Prodeo</span></a></li><li class="level3 item531"><a href="/layanan-hukum/layanan-perkara-prodeo/biaya" class="level3"><span>Biaya Berperkara Prodeo</span></a></li></ul></li><li class="level2 item593 parent"><span class="separator level2 parent"><span>Layanan Posbakum</span></span>
+<ul class="nav-child unstyled small level3"><li class="level3 item532"><a href="/layanan-hukum/layanan-posbakum/posbakum" class="level3"><span>Posbakum</span></a></li><li class="level3 item756"><a href="/layanan-hukum/layanan-posbakum/mekanisme-layanan-posbakum" class="level3"><span>Mekanisme Layanan Posbakum</span></a></li></ul></li><li class="level2 item635 parent"><span class="separator level2 parent"><span>Layanan E-Court</span></span>
+<ul class="nav-child unstyled small level3"><li class="level3 item636"><a href="/layanan-hukum/layanan-e-court/informasi-e-court" class="level3"><span>Informasi E-Court</span></a></li><li class="level3 item637"><a href="/layanan-hukum/layanan-e-court/tata-cara-pendaftara-gugatan-online" class="level3"><span>Tata Cara Pendaftaran Gugatan Online</span></a></li><li class="level3 item638"><a href="/layanan-hukum/layanan-e-court/tata-cara-pembayaran-biaya-perkara-online" class="level3"><span>Tata Cara Pembayaran Biaya Perkara Online</span></a></li><li class="level3 item639"><a href="/layanan-hukum/layanan-e-court/tata-cara-pendaftaran-pengguna-terdaftar" class="level3"><span>Tata Cara Pendaftaran Pengguna Terdaftar</span></a></li><li class="level3 item640"><a href="/layanan-hukum/layanan-e-court/link-e-court" target="_blank" class="level3"><span>Link E-Court</span></a></li></ul></li><li class="level2 item594 parent"><span class="separator level2 parent"><span>Layanan Perkara</span></span>
+<ul class="nav-child unstyled small level3"><li class="level3 item535"><a href="/layanan-hukum/layanan-perkara/prosedur-berperkara" class="level3"><span>Prosedur Berperkara</span></a></li><li class="level3 item595"><a href="/layanan-hukum/layanan-perkara/panjar-biaya-tingkat-pertama" class="level3"><span>Panjar Biaya Tingkat Pertama</span></a></li><li class="level3 item596"><a href="/layanan-hukum/layanan-perkara/panjar-biaya-tingkat-banding-dan-kasasi" class="level3"><span>Panjar Biaya Tingkat Banding dan Kasasi</span></a></li><li class="level3 item597"><a href="/layanan-hukum/layanan-perkara/panjar-biaya-pk-dan-ps" class="level3"><span>Panjar Biaya PK dan PS</span></a></li><li class="level3 item598"><a href="/layanan-hukum/layanan-perkara/sk-radius-bersama" class="level3"><span>SK Radius Bersama</span></a></li><li class="level3 item839"><a href="/layanan-hukum/layanan-perkara/biaya-hak-kepaniteraan" class="level3"><span>Biaya Hak-Hak Kepaniteraan</span></a></li><li class="level3 item764"><a href="/layanan-hukum/layanan-perkara/prosedur-pengambilan-produk-pengadilan" class="level3"><span>Prosedur Sita dan Eksekusi</span></a></li></ul></li><li class="level2 item641 parent"><span class="separator level2 parent"><span>Layanan Gugatan Sederhana</span></span>
+<ul class="nav-child unstyled small level3"><li class="level3 item642"><a href="/layanan-hukum/layanan-gugatan-sederhana/mekanisme-gugatan-sederhana" class="level3"><span>Mekanisme Gugatan Sederhana</span></a></li><li class="level3 item643"><a href="/layanan-hukum/layanan-gugatan-sederhana/alur-gugatan-sederhana" class="level3"><span>Alur Gugatan Sederhana</span></a></li><li class="level3 item644"><a href="/layanan-hukum/layanan-gugatan-sederhana/formulir-gugatan-sederhana" class="level3"><span>Formulir Gugatan Sederhana</span></a></li></ul></li><li class="level2 item748 parent"><span class="separator level2 parent"><span>Layanan Mediasi</span></span>
+<ul class="nav-child unstyled small level3"><li class="level3 item749"><a href="/layanan-hukum/layanan-mediasi/prosedur-mediasi" class="level3"><span>Prosedur Mediasi</span></a></li><li class="level3 item750"><a href="/layanan-hukum/layanan-mediasi/daftar-nama-mediator" class="level3"><span>Daftar Nama Mediator</span></a></li></ul></li><li class="level2 item751 parent"><span class="separator level2 parent"><span>Hak Masyarakat</span></span>
+<ul class="nav-child unstyled small level3"><li class="level3 item752"><a href="/layanan-hukum/hak-masyarakat/hak-hak-pencari-keadilan" class="level3"><span>Hak-Hak Pencari Keadilan</span></a></li><li class="level3 item629"><a href="/layanan-hukum/hak-masyarakat/hak-pokok-dalam-persidangan" class="level3"><span>Hak Pokok Dalam Persidangan</span></a></li></ul></li></ul></div></div></div></div></li><li class="level1 item587 parent hassubtitle"><span class="separator level1 parent"><span><span class="title">Transparansi</span><span class="subtitle">Keterbukaan Informasi</span></span></span>
+<div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="nav-child unstyled small level2"><li class="level2 item519 parent"><span class="separator level2 parent"><span>Laporan Kinerja dan Tahunan</span></span>
+<ul class="nav-child unstyled small level3"><li class="level3 item520"><a href="/transparansi-keterbukaan-informasi/laporan/laporan-tahunan" class="level3"><span>Laporan Tahunan</span></a></li><li class="level3 item693"><a href="/transparansi-keterbukaan-informasi/laporan/sakip" class="level3"><span>SAKIP</span></a></li><li class="level3 item706"><a href="/transparansi-keterbukaan-informasi/laporan/cetak-biru-ma" class="level3"><span>Cetak Biru Mahkamah Agung</span></a></li><li class="level3 item841"><a href="/transparansi-keterbukaan-informasi/laporan/program-kerja" class="level3"><span>Program Kerja Tahunan</span></a></li></ul></li><li class="level2 item616 parent"><span class="separator level2 parent"><span>Perkara</span></span>
+<ul class="nav-child unstyled small level3"><li class="level3 item618"><a href="/transparansi-keterbukaan-informasi/perkara/statistik-perkara" class="level3"><span>Statistik Perkara</span></a></li><li class="level3 item619"><a href="/transparansi-keterbukaan-informasi/perkara/laporan-perkara" class="level3"><span>Laporan Perkara</span></a></li><li class="level3 item622"><a href="/transparansi-keterbukaan-informasi/perkara/laporan-mediasi" class="level3"><span>Laporan Mediasi</span></a></li><li class="level3 item624"><a href="/transparansi-keterbukaan-informasi/perkara/laporan-posbakum" class="level3"><span>Laporan Posbakum</span></a></li><li class="level3 item617"><a href="/transparansi-keterbukaan-informasi/perkara/laporan-keuangan-perkara" class="level3"><span>Laporan Keuangan Perkara</span></a></li><li class="level3 item621"><a href="/transparansi-keterbukaan-informasi/perkara/laporan-penyebab-perceraian" class="level3"><span>Laporan Penyebab Perceraian</span></a></li><li class="level3 item623"><a href="/transparansi-keterbukaan-informasi/perkara/laporan-pembebasan-biaya-perkara" class="level3"><span>Laporan Pembebasan Biaya Perkara</span></a></li><li class="level3 item620"><a href="/transparansi-keterbukaan-informasi/perkara/laporan-perkara-lebih-dari-5-bulan" class="level3"><span>Laporan Perkara lebih dari 5 Bulan</span></a></li><li class="level3 item758"><a href="/transparansi-keterbukaan-informasi/perkara/laporan-sisa-panjar" class="level3"><span>Laporan Sisa Panjar</span></a></li></ul></li><li class="level2 item588 parent"><span class="separator level2 parent"><span>Anggaran</span></span>
+<ul class="nav-child unstyled small level3"><li class="level3 item667"><a href="/transparansi-keterbukaan-informasi/transparansi-anggaran/laporan-keuangan" class="level3"><span>Laporan Keuangan</span></a></li><li class="level3 item524"><a href="/transparansi-keterbukaan-informasi/transparansi-anggaran/realisasi-dipa" class="level3"><span>Realisasi DIPA</span></a></li><li class="level3 item611"><a href="/transparansi-keterbukaan-informasi/transparansi-anggaran/petikan-dipa" class="level3"><span>Petikan DIPA</span></a></li><li class="level3 item612"><a href="/transparansi-keterbukaan-informasi/transparansi-anggaran/rkakl-dipa" class="level3"><span>RKAKL DIPA</span></a></li><li class="level3 item591"><a href="/transparansi-keterbukaan-informasi/transparansi-anggaran/pendapatan-negara-bukan-pajak" class="level3"><span>Pendapatan Negara Bukan Pajak</span></a></li></ul></li><li class="level2 item663 parent"><span class="separator level2 parent"><span>Pengawasan dan Pendisiplinan</span></span>
+<ul class="nav-child unstyled small level3"><li class="level3 item662"><a href="/transparansi-keterbukaan-informasi/pengawasan-dan-pendisiplinan/hukuman-disiplin-hakim-dan-pegawai" class="level3"><span>Hukuman disiplin Hakim dan Pegawai</span></a></li><li class="level3 item664"><a href="/transparansi-keterbukaan-informasi/pengawasan-dan-pendisiplinan/statistik-hukuman-disiplin" class="level3"><span>Statistik Hukuman Disiplin</span></a></li><li class="level3 item665"><a href="/transparansi-keterbukaan-informasi/pengawasan-dan-pendisiplinan/putusan-majelis-kehormatan-hakim" class="level3"><span>Putusan Majelis Kehormatan Hakim</span></a></li><li class="level3 item767"><a href="/transparansi-keterbukaan-informasi/pengawasan-dan-pendisiplinan/nama-pejabat-pengawas-bidang" class="level3"><span>Nama Pejabat Pengawas Bidang</span></a></li></ul></li><li class="level2 item609 parent"><span class="separator level2 parent"><span>Informasi lainnya</span></span>
+<ul class="nav-child unstyled small level3"><li class="level3 item523"><a href="/transparansi-keterbukaan-informasi/informasi-lainnya/daftar-aset-dan-inventaris" class="level3"><span>Daftar Aset dan Inventaris</span></a></li><li class="level3 item666"><a href="/transparansi-keterbukaan-informasi/informasi-lainnya/neraca-arus-kas" class="level3"><span>Neraca Arus Kas</span></a></li><li class="level3 item610"><a href="/transparansi-keterbukaan-informasi/informasi-lainnya/rencana-umum-pengadaan" class="level3"><span>Rencana Umum Pengadaan</span></a></li><li class="level3 item522"><a href="/transparansi-keterbukaan-informasi/informasi-lainnya/lhkpn" class="level3"><span>LHKPN</span></a></li><li class="level3 item762"><a href="/transparansi-keterbukaan-informasi/informasi-lainnya/lhkasn" class="level3"><span>LHKASN</span></a></li><li class="level3 item661"><a href="/transparansi-keterbukaan-informasi/informasi-lainnya/surat-menyurat-pimpinan" class="level3"><span>Surat Menyurat Pimpinan</span></a></li></ul></li></ul></div></div></div></div></li><li class="level1 item613 parent hassubtitle"><span class="separator level1 parent"><span><span class="title">Reformasi Birokrasi</span><span class="subtitle">Akuntabilitas Kinerja</span></span></span>
+<div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="nav-child unstyled small level2"><li class="level2 item614"><a href="/reformasi-birokrasi-akuntabilitas-kinerja/road-map-pa-bangkalan" class="level2"><span>Road Map PA. Bangkalan</span></a></li><li class="level2 item615"><a href="/reformasi-birokrasi-akuntabilitas-kinerja/pelaksanaan-zona-integritas" class="level2"><span>Pelaksanaan Zona Integritas</span></a></li><li class="level2 item726"><a href="/reformasi-birokrasi-akuntabilitas-kinerja/arsip-multimedia" class="level2"><span>Arsip Multimedia</span></a></li></ul></div></div></div></div></li><li class="level1 item487 parent hassubtitle"><span class="separator level1 parent"><span><span class="title">Peraturan &amp; Kebijakan</span><span class="subtitle">Undang-undang &amp; Surat Edaran</span></span></span>
+<div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="nav-child unstyled small level2"><li class="level2 item709"><a href="/peraturan-dan-kebijakan-undang-undang-dan-surat-edaran/pedoman-pengelolaan-organisasi-dan-administrasi" class="level2"><span>Pedoman Pengelolaan Organisasi dan Administrasi</span></a></li><li class="level2 item710"><a href="/peraturan-dan-kebijakan-undang-undang-dan-surat-edaran/peraturan-ekonomi-syariah" class="level2"><span>Peraturan Ekonomi Syariah</span></a></li><li class="level2 item711"><a href="/peraturan-dan-kebijakan-undang-undang-dan-surat-edaran/waskat" class="level2"><span>Waskat</span></a></li><li class="level2 item789"><a href="/peraturan-dan-kebijakan-undang-undang-dan-surat-edaran/regulasi-aturan" class="level2"><span>Regulasi/Aturan</span></a></li><li class="level2 item712"><a href="/peraturan-dan-kebijakan-undang-undang-dan-surat-edaran/peraturan-perundang-undangan" target="_blank" class="level2"><span>Peraturan Perundang-undangan</span></a></li><li class="level2 item501"><a href="https://jdih.mahkamahagung.go.id/index.php?option=com_remository&amp;Itemid=46&amp;func=select&amp;id=297" target="_blank" rel="noopener noreferrer" class="level2"><span>Yurisprudensi</span></a></li><li class="level2 item713"><a href="https://jdih.mahkamahagung.go.id/index.php?option=com_remository&amp;Itemid=46&amp;func=select&amp;id=14" target="_blank" rel="noopener noreferrer" class="level2"><span>Peraturan Mahkamah Agung</span></a></li><li class="level2 item714"><a href="https://jdih.mahkamahagung.go.id/index.php?option=com_remository&amp;Itemid=46&amp;func=select&amp;id=18" target="_blank" rel="noopener noreferrer" class="level2"><span>Keputusan Ketua MA</span></a></li><li class="level2 item715"><a href="https://jdih.mahkamahagung.go.id/index.php?option=com_remository&amp;Itemid=46&amp;func=select&amp;id=13" target="_blank" rel="noopener noreferrer" class="level2"><span>Surat Edaran Mahkamah Agung</span></a></li><li class="level2 item716"><a href="https://jdih.mahkamahagung.go.id/index.php?option=com_remository&amp;Itemid=46&amp;func=select&amp;id=372" target="_blank" rel="noopener noreferrer" class="level2"><span>Peraturan Sekretaris MA</span></a></li><li class="level2 item718"><a href="/peraturan-dan-kebijakan-undang-undang-dan-surat-edaran/pertimbangan-nasehat-hukum" class="level2"><span>Pertimbangan/Nasehat Hukum</span></a></li><li class="level2 item719"><a href="/peraturan-dan-kebijakan-undang-undang-dan-surat-edaran/naskah-akademis-ma" target="_blank" class="level2"><span>Naskah Akademis MA</span></a></li><li class="level2 item717"><a href="https://jdih.mahkamahagung.go.id/index.php?option=com_remository&amp;Itemid=46&amp;func=select&amp;id=133" target="_blank" rel="noopener noreferrer" class="level2"><span>Keputusan Sekretaris MA</span></a></li><li class="level2 item770"><a href="/peraturan-dan-kebijakan-undang-undang-dan-surat-edaran/arsip-hasil-penelitian" class="level2"><span>Arsip Hasil Penelitian</span></a></li><li class="level2 item836"><a href="/peraturan-dan-kebijakan-undang-undang-dan-surat-edaran/arsip-artikel" class="level2"><span>Arsip Artikel</span></a></li></ul></div></div></div></div></li></ul></nav>
+				
+			</div>
+		
+							<div id="banner">	
+	
+	
+<style>
+.gafancybox-lock {overflow: hidden !important;}
+	
+.gafancybox-inner {overflow: auto !important; max-width: 98% !important;}
+	
+#gafancybox-overlay162 {
+	background: rgba(0, 0, 0, 0.5);
+	opacity: ;
+}
+#gafancybox-skin162{
+background: rgba(255, 255, 255, 0.55);/*popup background color*/
+color: rgba(255, 255, 255, 0.55);/*popup font color*/
+border-radius:0px;/*popup border radius*/
+	
+	
+}
+	
+    #gafancybox-close162 {
+right: -18px; position: absolute; top: -18px; width: 36px; height: 36px; cursor: pointer; z-index: 8040; background:url('/modules/mod_popupaholic/images/closeButton.png');
+}
+	    
+    
+	.close-notify {
+		color: #ffffff!important;
+	}
+    #header_message162{  
+		display:none;
+		text-align: left;
+		font-size: 13px;
+		color: #ffffff!important;
+		background: none repeat scroll 0 0 rgba(50, 49, 59, 0.7);
+		box-shadow: 2px 2px 2px #cccccc;
+    }
+    	
+    .gafancybox-tmp, .gafancybox-opened {max-width: 1200px !important;}
+        
+</style>	
+<script type="text/javascript">
+var myCookie =  jQuery.cookie('popup_aholic162');    
+        
+        
+        
+        var noCookie = new Date(new Date().getTime() + 0 * 60 * 1000);
+        
+		if (myCookie != 1){
+        jQuery(document).ready(function() { setTimeout(function () { jQuery('.popup-aholic162').gafancybox({
+		padding : 20,
+		margin  : 20,
+		modal: false,
+		autoSize  : true,    
+        openEffect	: 'elastic', //elastic, fade or none
+        openSpeed   : 250,    
+        closeEffect	: 'fade', //elastic, fade or none
+        closeSpeed   : 250,    
+			
+				scrolling: 'no',
+		autoHeight : true,
+		autoWidth : true,	
+			
+		tpl: {
+				overlay  : '<div class="gafancybox-overlay" id="gafancybox-overlay162"></div>',
+				wrap     : '<div class="gafancybox-wrap" tabIndex="-1"><div id="gafancybox-skin162" class="gafancybox-skin"><div class="gafancybox-outer"><div class="gafancybox-inner"></div></div></div></div>',
+				closeBtn : '<a title="Close" id="gafancybox-close162" class="gafancybox-item gafancybox-close" href="javascript:;"></a>',
+			},
+		helpers: {  overlay: { closeClick: true, title: false, lbwrap: '<div class="gafancybox-overlay" id="gafancybox-overlay162"></div>',opacity: 0.5}} ,afterShow: function(){setTimeout('parent.jQuery.gafancybox.close ()',20000);}
+}).trigger('click');}, 1000);
+            
+        jQuery('a.fancy-closeBTN').click(function(e){
+            e.preventDefault();
+            jQuery.gafancybox.close();
+        });
+            
+    });
+    
+    jQuery.cookie('popup_aholic162', '1', { expires: noCookie }); 
+}
+	</script>
+<div id="popup_aholic"></div>	
+<script type="text/javascript">
+function killOverlay() {	
+  refID = document.getElementById('popup_aholic');
+	refID.style.display = "none";	
+}
+function hidestuff(boxid){
+   document.getElementById(boxid).style.visibility="hidden";
+}
+</script>	
+	<a class="popup-aholic162" href="#inline-auto162"></a>
+		<div style="display:none;">
+			<div id="inline-auto162" >
+								<p><img src="/images/images/Banner_ZI.jpeg" alt="zona integritas" width="1000" height="500" /></p>					
+					
+            </div>
+        </div>	
+<div class='powr-social-media-icons' label='joomla_187'></div></div>
+					</header>
+
+		
+		
+				<section id="slide-zone">
+			<div class="header-overlay  head_overlay_10">
+				<div class="module   deepest">
+
+			<div id="sp-smart-slider111" class="sp-smart-slider layout-maxima  ">
+    <!-- Carousel items -->
+    <div class="maxima-slider">
+        
+        <div class="slider-item odd animate-in ">
+            <div class="slider-item-inner">
+                <div class="slider-content">
+                    <div class="slider-title">
+                        <h1 class="sp-smart-title">PROGRAM PRIORITAS 2025</h1>                                
+                    </div>
+
+                    <div class="slider-text hidden-phone">
+                        Direktorat Jenderal Badan Peradilan Agama telah menetapkan program prioritas Tahun 2025                    </div>
+
+                                            <div class="slider-button">
+
+                            <a href="https://www.pa-bangkalan.go.id/images/banners/Program_Prioritas_Ditjen_Badilag_2025.png" class="btn btn-primary btn-large maxima-more">
+                                Selengkapnya <i class="icon-chevron-sign-right"></i>
+                            </a>
+                        </div>
+                                        </div>
+
+                <div  class="slider-image">
+                    <img src="https://pa-bangkalan.go.id/images/banners/Program_Prioritas_Ditjen_Badilag_2025.png" alt="PROGRAM PRIORITAS 2025" title="PROGRAM PRIORITAS 2025" />
+                </div>
+
+                <div class="clearfix"></div>
+            </div>
+        </div>
+
+    
+        <div class="slider-item even  ">
+            <div class="slider-item-inner">
+                <div class="slider-content">
+                    <div class="slider-title">
+                        <h1 class="sp-smart-title">E-Court</h1>                                
+                    </div>
+
+                    <div class="slider-text hidden-phone">
+                        Adalah layanan bagi Pengguna Terdaftar untuk Pendaftaran Perkara Secara Online, Mendapatkan Taksiran Panjar Biaya Perkara secara online                    </div>
+
+                                            <div class="slider-button">
+
+                            <a href="https://ecourt.mahkamahagung.go.id/" class="btn btn-primary btn-large maxima-more">
+                                Selanjutnya <i class="icon-chevron-sign-right"></i>
+                            </a>
+                        </div>
+                                        </div>
+
+                <div  class="slider-image">
+                    <img src="https://pa-bangkalan.go.id/images/slide/slide4.jpg" alt="E-Court" title="E-Court" />
+                </div>
+
+                <div class="clearfix"></div>
+            </div>
+        </div>
+
+    
+        <div class="slider-item odd  ">
+            <div class="slider-item-inner">
+                <div class="slider-content">
+                    <div class="slider-title">
+                        <h1 class="sp-smart-title">SAKERA (Sistem Aplikasi Taksiran Panjar Biaya Perkara)</h1>                                
+                    </div>
+
+                    <div class="slider-text hidden-phone">
+                        Adalah salah satu inovasi Pengadilan Agama Bangkalan yang berfungsi untuk memudahkan masyarakat mengetahui perkiraan biaya berperkara sesuai jenis perkara dan lokasi para pihak secara online tanpa harus datang ke Pengadilan.                    </div>
+
+                                    </div>
+
+                <div  class="slider-image">
+                    <img src="https://pa-bangkalan.go.id/images/slide/Banner_Online.jpg" alt="SAKERA (Sistem Aplikasi Taksiran Panjar Biaya Perkara)" title="SAKERA (Sistem Aplikasi Taksiran Panjar Biaya Perkara)" />
+                </div>
+
+                <div class="clearfix"></div>
+            </div>
+        </div>
+
+    
+        <div class="slider-item even  ">
+            <div class="slider-item-inner">
+                <div class="slider-content">
+                    <div class="slider-title">
+                        <h1 class="sp-smart-title">Loket Khusus Layanan Disabilitas</h1>                                
+                    </div>
+
+                    <div class="slider-text hidden-phone">
+                        Loket Khusus Layanan Disabilitas di Pengadilan Agama Bangkalan merupakan Loket yang menyediakan layanan khusus bagi penyandang disabilitas dengan sistem antrian prioritas                    </div>
+
+                                    </div>
+
+                <div  class="slider-image">
+                    <img src="https://pa-bangkalan.go.id/images/slide/Banner_Online__1_1.jpg" alt="Loket Khusus Layanan Disabilitas" title="Loket Khusus Layanan Disabilitas" />
+                </div>
+
+                <div class="clearfix"></div>
+            </div>
+        </div>
+
+    
+        <div class="slider-item odd  ">
+            <div class="slider-item-inner">
+                <div class="slider-content">
+                    <div class="slider-title">
+                        <h1 class="sp-smart-title">Aplikasi SIPP</h1>                                
+                    </div>
+
+                    <div class="slider-text hidden-phone">
+                        Aplikasi Sistem Informasi Penelusuran Perkara (SIPP), merupakan aplikasi administrasi dan penyediaan informasi perkara baik untuk pihak internal pengadilan, maupun pihak eksternal pengadilan. Pengunjung dapat melakukan penelusuran data perkara (jadwal sidang sampai dengan putusan) melalui aplikasi ini.                    </div>
+
+                                            <div class="slider-button">
+
+                            <a href="http://sipp.pa-bangkalan.go.id/" class="btn btn-primary btn-large maxima-more">
+                                Selanjutnya <i class="icon-chevron-sign-right"></i>
+                            </a>
+                        </div>
+                                        </div>
+
+                <div  class="slider-image">
+                    <img src="https://pa-bangkalan.go.id/images/slide/slide1.jpg" alt="Aplikasi SIPP" title="Aplikasi SIPP" />
+                </div>
+
+                <div class="clearfix"></div>
+            </div>
+        </div>
+
+    
+        <div class="slider-item even  ">
+            <div class="slider-item-inner">
+                <div class="slider-content">
+                    <div class="slider-title">
+                        <h1 class="sp-smart-title">SIWAS</h1>                                
+                    </div>
+
+                    <div class="slider-text hidden-phone">
+                        Aplikasi yang disediakan oleh Badan Pengawasan Mahkamah Agung RI, untuk melaporkan suatu perbuatan berindikasi pelanggaran yang terjadi di lingkungan Mahkamah Agung Republik Indonesia atau Peradilan dibawahnya.                     </div>
+
+                                            <div class="slider-button">
+
+                            <a href="https://siwas.mahkamahagung.go.id/" class="btn btn-primary btn-large maxima-more">
+                                Selanjutnya <i class="icon-chevron-sign-right"></i>
+                            </a>
+                        </div>
+                                        </div>
+
+                <div  class="slider-image">
+                    <img src="https://pa-bangkalan.go.id/images/banners/siwas2.png" alt="SIWAS" title="SIWAS" />
+                </div>
+
+                <div class="clearfix"></div>
+            </div>
+        </div>
+
+    
+        <div class="slider-item odd  ">
+            <div class="slider-item-inner">
+                <div class="slider-content">
+                    <div class="slider-title">
+                        <h1 class="sp-smart-title">SAKERA (Sistem Aplikasi Taksiran Panjar Biaya Perkara)</h1>                                
+                    </div>
+
+                    <div class="slider-text hidden-phone">
+                        SAKERA (Sistem Aplikasi Taksiran Panjar Biaya Perkara) adalah salah satu inovasi Pengadilan Agama Bangkalan yang berfungsi untuk memudahkan masyarakat mengetahui perkiraan biaya berperkara sesuai jenis perkara dan lokasi para pihak secara online tanpa harus datang ke Pengadilan.                    </div>
+
+                                    </div>
+
+                <div  class="slider-image">
+                    <img src="https://pa-bangkalan.go.id/images/slide/Banner_Online.jpg" alt="SAKERA (Sistem Aplikasi Taksiran Panjar Biaya Perkara)" title="SAKERA (Sistem Aplikasi Taksiran Panjar Biaya Perkara)" />
+                </div>
+
+                <div class="clearfix"></div>
+            </div>
+        </div>
+
+    </div>
+<div class="sp-preloader">
+    <i class="icon-cog icon-spin"></i>
+    <i class="icon-cog icon-spin"></i>
+    <i class="icon-cog icon-spin"></i>
+</div>
+<div class="slider-controllers">
+        <ul>
+                <li class="active" style="width: 14.286%;">
+            <a href="javascript:;">
+                            </a>
+        </li>
+                <li class="" style="width: 14.286%;">
+            <a href="javascript:;">
+                            </a>
+        </li>
+                <li class="" style="width: 14.286%;">
+            <a href="javascript:;">
+                            </a>
+        </li>
+                <li class="" style="width: 14.286%;">
+            <a href="javascript:;">
+                            </a>
+        </li>
+                <li class="" style="width: 14.286%;">
+            <a href="javascript:;">
+                            </a>
+        </li>
+                <li class="" style="width: 14.286%;">
+            <a href="javascript:;">
+                            </a>
+        </li>
+                <li class="" style="width: 14.286%;">
+            <a href="javascript:;">
+                            </a>
+        </li>
+                <ul>
+        </div>
+    </div>
+		
+</div>			</div>
+		</section>
+		
+				<section id="breadcrumbs">
+			<a href="https://pa-bangkalan.go.id" class="home"></a>
+			<div class = "breadcrumbs" >
+<a href="/" class="pathway">Home</a></div>
+</section>
+		
+					<section id="top-a" class="grid-block"><div class="grid-box width100 grid-h"><div class="module mod-box  deepest">
+
+			
+<div 
+	 >
+	<p><div class="uk-grid" data-uk-grid-margin><div class="uk-width-medium-1-5"></p>
+<p><a href="http://sipp.pa-bangkalan.go.id/list_jadwal_sidang" target="_blank" rel="noopener"><img src="/images/banners/banner_baru/jadwal_sidang.png" alt="jadwal sidang" width="167" height="59" style="float: left;" /></a><br style="clear: none;" /></p>
+<p style="text-align: justify;">Pengadilan Agama memberikan kemudahan akses informasi jadwal sidang untuk para pihak berperkara.</p>
+<p></div><div class="uk-width-medium-1-5"></p>
+<p style="text-align: justify;"><a href="http://sipp.pa-bangkalan.go.id/" target="_blank" rel="noopener"><img src="/images/banners/banner_baru/sipp.png" alt="sipp" width="167" height="59" style="float: left;" /><br style="clear: both;" /></a>Melalui Sistem Informasi Penelusuran Perkara (SIPP), anda akan mengetahui tahapan, status dan riwayat perkara.</p>
+<p style="text-align: justify;"></div><div class="uk-width-medium-1-5"></p>
+<p style="text-align: justify;"><a href="http://gugatanmandiri.badilag.net/" target="_blank" rel="noopener"><img src="/images/banners/banner_baru/gugatanmandiri.jpg" alt="gugatanmandiri" width="162" height="57" /></a>Ditjen Badan Peradilan Agama menyediakan Layanan Pembuatan Gugatan / Permohonan secara mandiri.</p>
+<p></div><div class="uk-width-medium-1-5"></p>
+<p><a href="https://siwas.mahkamahagung.go.id/" target="_blank" rel="noopener"><img src="/images/banners/banner_baru/Siwas.png" alt="Siwas" width="167" height="59" style="float: left;" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>SIWAS adalah aplikasi pengaduan yang disediakan oleh Badan Pengawasan Mahkamah Agung Republik Indonesia.</div><div class="uk-width-medium-1-5"></p>
+<p style="text-align: justify;"><a href="https://ecourt.mahkamahagung.go.id/" target="_blank" rel="noopener"><img src="/images/banners/banner_baru/e-court.png" alt="e court" width="167" height="59" style="float: left;" /></a></p>
+<p>&nbsp;</p>
+<p style="text-align: justify;">Layanan Pendaftaran Perkara, Taksiran Panjar Biaya Perkara, Pembayaran dan Pemanggilan yang dilakukan Secara Online.</p>
+<p></div></p>
+<p style="text-align: justify;"></div></p></div>		
+</div></div></section>
+				
+					<section id="top-b" class="grid-block"><div class="grid-box width100 grid-h"><div class="module mod-box  deepest">
+
+			  
+	
+	
+<script type="text/javascript">
+			jQuery(function(){
+				var $mwo = jQuery('.marquee-with-options-153');
+				jQuery('.marquee').marquee ();
+				jQuery('.marquee-with-options-153').marquee ({
+					speed: 10000, //speed in milliseconds of the marquee
+					gap: 50, //gap in pixels between the tickers
+					delayBeforeStart: 0, //gap in pixels between the tickers
+					direction: 'left', //'left' or 'right'
+					duplicated: false, //true or false - should the marquee be duplicated to show an effect of continues flow
+					pauseOnHover: true, //on hover pause the marquee
+					pauseOnCycle: false //on cycle pause the marquee
+				});
+			});
+</script>   
+<style type="text/css">
+.marquee-with-options-153 {direction: initial; overflow: hidden !important; color: ; font-family: ; font-size: ; line-height: ; height: auto; width: auto; background:  !important; border:  none ; margin-bottom: 0px; text-decoration: none;}
+.marquee-with-options-153 a:hover {color:  !important;}
+.marquee-with-options-153 a {color:  !important;}
+</style>
+  
+		
+	<div class='marquee-with-options-153'>Selamat datang di Website Resmi Pengadilan Agama Bangkalan</div>	
+		
+		
+</div></div></section>
+		
+					<section id="mosaic" class="grid-block">
+					<div class="module   deepest">
+
+			
+<div 
+	 >
+	<p>&nbsp;</p>
+<p><img src="/images/banners/banner_tengah/BANNER_MAKLUMAT_PELAYANAN_1.png" alt="BANNER MAKLUMAT PELAYANAN" width="1000" height="250" /></p>
+<p><img src="/images/banners/banner_ZI_1.png" alt="banner ZI" width="1000" height="250" /></p>
+<table>
+<tbody>
+<tr>
+<td>
+<p><a href="https://interpol.pa-bangkalan.go.id/" target="_blank" rel="noopener"><img src="/images/file_upload/INOVASI_UNGGULAN/3.png" alt="1" width="200" height="200" /></a></p>
+<p style="text-align: center;"><a href="https://drive.google.com/open?id=12DowFBa84Lt9TiqzH5cNiEvraac_8ubj&amp;usp=drive_fs" target="_blank" rel="noopener" style="background-color: #f1c40f; color: white; text-decoration: none; padding: 10px 15px; border-radius: 5px; display: inline-block;"> Dokumen </a></p>
+</td>
+<td>
+<p><a href="https://sakera.pa-bangkalan.go.id/" target="_blank" rel="noopener"><img src="/images/file_upload/INOVASI_UNGGULAN/1.png" alt="1" width="200" height="200" /></a></p>
+<p style="text-align: center;"><a href="https://drive.google.com/open?id=1eBER6kGp2meWaMvuL1gQPdaYpshaKwHt&usp=drive_fs" target="_blank" rel="noopener" style="background-color: #f1c40f; color: white; text-decoration: none; padding: 10px 15px; border-radius: 5px; display: inline-block;"> Dokumen </a></p>
+</td>
+<td>
+<p><a href="https://wa.me/6282225222541" target="_blank" rel="noopener"><img src="/images/file_upload/INOVASI_UNGGULAN/5.png" alt="1" width="200" height="200" /></a></p>
+<p style="text-align: center;"><a href="https://drive.google.com/open?id=1AF-SA1E1YKly0NKD50nkEaQhvjjmo6uO&usp=drive_fs" target="_blank" rel="noopener" style="background-color: #f1c40f; color: white; text-decoration: none; padding: 10px 15px; border-radius: 5px; display: inline-block;"> Dokumen </a></p>
+</td>
+<td>
+<p><a href="https://near.tl/sm/wWE-92znW" target="_blank" rel="noopener"><img src="/images/file_upload/INOVASI_UNGGULAN/4.png" alt="1" width="200" height="200" /></a></p>
+<p style="text-align: center;"><a href="https://drive.google.com/open?id=1vcSosgpGbSSFJDnqe_IvC57Vc72FbWx0&usp=drive_fs" target="_blank" rel="noopener" style="background-color: #f1c40f; color: white; text-decoration: none; padding: 10px 15px; border-radius: 5px; display: inline-block;"> Dokumen </a></p>
+</td>
+<td>
+<p><a href="https://drive.google.com/drive/folders/10D7iVvoFiSUNpmfK_Cuie73bF56IDxvg?usp=sharing" target="_blank" rel="noopener"><img src="/images/file_upload/INOVASI_UNGGULAN/2.png" alt="1" width="200" height="200" /></a></p>
+<p style="text-align: center;"><a href="https://drive.google.com/drive/folders/10D7iVvoFiSUNpmfK_Cuie73bF56IDxvg?usp=sharing" target="_blank" rel="noopener" style="background-color: #f1c40f; color: white; text-decoration: none; padding: 10px 15px; border-radius: 5px; display: inline-block;">Dokumen</a></p>
+</td>
+</tr>
+</tbody>
+</table></div>		
+</div>			</section>
+				
+				<div id="main" class="grid-block">
+		
+			<div id="maininner" class="grid-box">
+								<section id="innertop" class="grid-block"><div class="grid-box width100 grid-h"><div class="module mod-box  deepest">
+
+			
+<div 
+	 >
+	<p><div class="pricing two"></p>
+<p style="text-align: justify;"><div class="price-col first"><div class="th"><div class="overlay"><span class="title"><i class="uk-icon-bullhorn"></i>&nbsp;&nbsp; PENGUMUMAN</span></div></div><div class="p-inner"><ul class="feature zebra"><li>
+<ul class="line line-icon">
+	<li><a href="/informasi-pengadilan/1183-jam-pelayanan-selama-bulan-ramadhan-1446-h">JAM PELAYANAN SELAMA BULAN RAMADHAN 1446 H</a></li>
+	<li><a href="/informasi-pengadilan/1162-pengumuman-libur-natal-2024">PENGUMUMAN LIBUR  NATAL 2024</a></li>
+	<li><a href="/informasi-pengadilan/1161-pengumuman-pendaftaran-posbakum-pa-bangkalan-ta-2026">PENGUMUMAN PENGADAAN POSBAKUM PA BANGKALAN TA 2025</a></li>
+	<li><a href="/informasi-pengadilan/1127-pengumuman-pendaftaran-secara-ecourt">PENGUMUMAN PENDAFTARAN SECARA ECOURT</a></li>
+	<li><a href="/informasi-pengadilan/657-jam-pelayanan-selama-bulan-ramadhan-1444-h">JAM PELAYANAN SELAMA BULAN RAMADHAN 1444 H</a></li>
+	<li><a href="/informasi-pengadilan/653-pengumuman-hari-libur-dan-cuti-bersama-nyepi-tahun-2023">PENGUMUMAN HARI LIBUR DAN CUTI BERSAMA NYEPI TAHUN 2023</a></li>
+	<li><a href="/informasi-pengadilan/623-pemberitahuan-untuk-mengambil-uang-sisa-panjar-biaya-perkara">PEMBERITAHUAN UNTUK MENGAMBIL UANG SISA PANJAR BIAYA PERKARA</a></li>
+	<li><a href="/informasi-pengadilan/614-pengumuman-lelang-ulang-eksekusi-pengadilan">PENGUMUMAN LELANG ULANG EKSEKUSI PENGADILAN</a></li>
+</ul></li></ul><span class="call-action"><a class="button-color" href="informasi-pengadilan">Pengumuman Lainnya</a></span></div></div></p>
+<p style="text-align: justify;"><div class="price-col last"><div class="th"><div class="overlay"><span class="title"><i class="uk-icon-edit"></i>&nbsp; &nbsp;BERITA</span></div></div><div class="p-inner"><ul class="feature zebra"><li><div class="junewsultra ">
+            <div class="jn">
+            <div class="jn-head">
+                <div class="jn-left">
+                                            <a href="/layanan-publik/pengumuman/kegiatan-pengadian/1221-pa-bangkalan-kembali-gelar-sidang-di-luar-gedung-di-kecamatan-kwanyar-2" title="PA BANGKALAN KEMBALI GELAR SIDANG DI LUAR GEDUNG DI KECAMATAN KWANYAR"><img src="https://pa-bangkalan.go.id/img/55x55/d/whatsappimage20250620at085341-18a5936b9bc61d74d3cf0420f83d341f.jpg" alt="PA BANGKALAN KEMBALI GELAR SIDANG DI LUAR GEDUNG DI KECAMATAN KWANYAR" /></a>                                    </div>
+                <div class="jn-right">
+                                            <h4>
+                            <a href="/layanan-publik/pengumuman/kegiatan-pengadian/1221-pa-bangkalan-kembali-gelar-sidang-di-luar-gedung-di-kecamatan-kwanyar-2">
+                                PA BANGKALAN KEMBALI GELAR SIDANG DI LUAR GEDUNG DI KECAMATAN KWANYAR                            </a>
+                        </h4>
+                                        <div class="jn-info">
+                                                                                                                    </div>
+                </div>
+            </div>
+                                </div>
+            <div class="jn">
+            <div class="jn-head">
+                <div class="jn-left">
+                                            <a href="/layanan-publik/pengumuman/kegiatan-pengadian/1220-dyk-cabang-bangkalan-laksanakan-pertemuan-rutin-dan-arisan-di-pn-bangkalan-2" title="DYK CABANG BANGKALAN LAKSANAKAN PERTEMUAN RUTIN DAN ARISAN DI PN BANGKALAN"><img src="https://pa-bangkalan.go.id/img/55x55/e/whatsappimage20250613at115426-2e5487daa389dff156fcb24f141eab54.jpg" alt="DYK CABANG BANGKALAN LAKSANAKAN PERTEMUAN RUTIN DAN ARISAN DI PN BANGKALAN" /></a>                                    </div>
+                <div class="jn-right">
+                                            <h4>
+                            <a href="/layanan-publik/pengumuman/kegiatan-pengadian/1220-dyk-cabang-bangkalan-laksanakan-pertemuan-rutin-dan-arisan-di-pn-bangkalan-2">
+                                DYK CABANG BANGKALAN LAKSANAKAN PERTEMUAN RUTIN DAN ARISAN DI PN BANGKALAN                            </a>
+                        </h4>
+                                        <div class="jn-info">
+                                                                                                                    </div>
+                </div>
+            </div>
+                                </div>
+            <div class="jn">
+            <div class="jn-head">
+                <div class="jn-left">
+                                            <a href="/layanan-publik/pengumuman/kegiatan-pengadian/1219-a-bangkalan-kembali-gelar-sidang-di-luar-gedung-di-kecamatan-konang" title="PA BANGKALAN KEMBALI GELAR SIDANG DI LUAR GEDUNG DI KECAMATAN KONANG"><img src="https://pa-bangkalan.go.id/img/55x55/6/whatsappimage20250523at085500-aa6e2b1f198f250266f9dd855c54b4dc.jpg" alt="PA BANGKALAN KEMBALI GELAR SIDANG DI LUAR GEDUNG DI KECAMATAN KONANG" /></a>                                    </div>
+                <div class="jn-right">
+                                            <h4>
+                            <a href="/layanan-publik/pengumuman/kegiatan-pengadian/1219-a-bangkalan-kembali-gelar-sidang-di-luar-gedung-di-kecamatan-konang">
+                                PA BANGKALAN KEMBALI GELAR SIDANG DI LUAR GEDUNG DI KECAMATAN KONANG                            </a>
+                        </h4>
+                                        <div class="jn-info">
+                                                                                                                    </div>
+                </div>
+            </div>
+                                </div>
+            <div class="jn">
+            <div class="jn-head">
+                <div class="jn-left">
+                                            <a href="/layanan-publik/pengumuman/kegiatan-pengadian/1218-pembinaan-zona-integritas-ketua-pta-surabaya-di-pa-bangkalan" title="PEMBINAAN ZONA INTEGRITAS KETUA PTA SURABAYA DI PA BANGKALAN"><img src="https://pa-bangkalan.go.id/img/55x55/5/whatsappimage20250523at0821162-4dd4c4746a398f2c0ea87107f510305f.jpg" alt="PEMBINAAN ZONA INTEGRITAS KETUA PTA SURABAYA DI PA BANGKALAN" /></a>                                    </div>
+                <div class="jn-right">
+                                            <h4>
+                            <a href="/layanan-publik/pengumuman/kegiatan-pengadian/1218-pembinaan-zona-integritas-ketua-pta-surabaya-di-pa-bangkalan">
+                                PEMBINAAN ZONA INTEGRITAS KETUA PTA SURABAYA DI PA BANGKALAN                            </a>
+                        </h4>
+                                        <div class="jn-info">
+                                                                                                                    </div>
+                </div>
+            </div>
+                                </div>
+            <div class="jn">
+            <div class="jn-head">
+                <div class="jn-left">
+                                            <a href="/layanan-publik/pengumuman/kegiatan-pengadian/1217-pa-bangkalan-hadiri-diskusi-hukum-pa-se-koordinator-wilayah-madura" title="PA BANGKALAN HADIRI DISKUSI HUKUM PA SE-KOORDINATOR WILAYAH MADURA   "><img src="https://pa-bangkalan.go.id/img/55x55/f/whatsappimage20250520at075503-5b0a4bd29cdb2b5574b218a761df79df.jpg" alt="PA BANGKALAN HADIRI DISKUSI HUKUM PA SE-KOORDINATOR WILAYAH MADURA   " /></a>                                    </div>
+                <div class="jn-right">
+                                            <h4>
+                            <a href="/layanan-publik/pengumuman/kegiatan-pengadian/1217-pa-bangkalan-hadiri-diskusi-hukum-pa-se-koordinator-wilayah-madura">
+                                PA BANGKALAN HADIRI DISKUSI HUKUM PA SE-KOORDINATOR WILAYAH MADURA                               </a>
+                        </h4>
+                                        <div class="jn-info">
+                                                                                                                    </div>
+                </div>
+            </div>
+                                </div>
+    </div></li></ul><span class="call-action"><a class="button-color" href="berita-seputar-peradilan">Berita Lainnya</a></span></div></div></p>
+<p></div></p></div>		
+</div></div></section>
+				
+								<section id="content" class="grid-block"><div id="system-message-container">
+	</div>
+
+<div id="system">
+
+	
+	<article class="item">
+
+		
+				<p class="meta1">
+	                  	</p>			
+	
+		
+		<div class="content clearfix">
+
+		
+		</div>
+
+		
+		
+			
+	</article>
+
+</div></section>
+				
+								<section id="innerbottom" class="grid-block"><div class="grid-box width100 grid-h"><div class="module mod-box  deepest">
+
+			 <div data-tabs="143">
+	<div class="sprocket-tabs layout-top animation-slideandfade">
+					<ul class="sprocket-tabs-nav">
+								<li data-tabs-navigation><span class="sprocket-tabs-inner">
+										<span class="sprocket-tabs-text">
+						Ucapan					</span>
+				</span></li>
+								<li data-tabs-navigation><span class="sprocket-tabs-inner">
+										<span class="sprocket-tabs-text">
+						Zona Integritas					</span>
+				</span></li>
+								<li data-tabs-navigation><span class="sprocket-tabs-inner">
+										<span class="sprocket-tabs-text">
+						Video Profile					</span>
+				</span></li>
+								<li data-tabs-navigation><span class="sprocket-tabs-inner">
+										<span class="sprocket-tabs-text">
+						Gugatan Sederhana					</span>
+				</span></li>
+								<li data-tabs-navigation><span class="sprocket-tabs-inner">
+										<span class="sprocket-tabs-text">
+						Prosedur Permohonan Informasi					</span>
+				</span></li>
+								<li data-tabs-navigation><span class="sprocket-tabs-inner">
+										<span class="sprocket-tabs-text">
+						Prosedur Berperkara					</span>
+				</span></li>
+								<li data-tabs-navigation><span class="sprocket-tabs-inner">
+										<span class="sprocket-tabs-text">
+						Hak Perempuan & Anak Pasca Perceraian					</span>
+				</span></li>
+							</ul>
+				<div class="sprocket-tabs-panels">
+			<div class="sprocket-tabs-panel" data-tabs-panel>
+	<p style="text-align: justify;"><span style="font-size: 14pt;"><strong>SELAMAT HARI KARTINI</strong></span></p>
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/JWJK_sVpAeY"
+frameborder="0" allowfullscreen></iframe>	</div>
+<div class="sprocket-tabs-panel" data-tabs-panel>
+	<p><img src="/images/banners/ZI/korupsi.png" alt="korupsi" /></p>	</div>
+<div class="sprocket-tabs-panel" data-tabs-panel>
+	<p> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0kNIIr-Jrwc?si=aBgEpv7ceJDcAIPC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+</p>	</div>
+<div class="sprocket-tabs-panel" data-tabs-panel>
+	<p><img src="/images/file_upload/gugatan/PosterGugatanSederhana.png" alt="06 2" width="446" height="632" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><a href="/layanan-hukum/layanan-gugatan-sederhana/alur-gugatan-sederhana">ALUR GUGATAN SEDERHANA KLIK DISINI</a>&nbsp;&nbsp;</p>	</div>
+<div class="sprocket-tabs-panel" data-tabs-panel>
+	<h3 class="dotted"><strong>Tata Cara Permohonan Informasi<br /></strong></h3>
+<p style="text-align: justify;"><img src="/images/icon/typo-color.png" alt="typo color" width="45" height="45" style="margin-right: 5px; float: left;" />Secara umum tatacara memperoleh layanan informasi adalah sebagai berikut a. Prosedur Biasa; dan b. Prosedur Khusus. a. Permohonan disampaikan secara tidak langsung, baik melalui surat atau media elektronik; b. Informasi yang diminta bervolume besar; c. Informasi yang diminta belum tersedia; atau d. Informasi yang diminta adalah informasi yang tidak secara tegas termasuk dalam kategori informasi yang harus diumumkan atau informasi yang harus tersedia setiap saat dan dapat diakses publik</p>
+<p><a href="/cara-memperoleh-informasi" class="button-color">Selengkapnya</a></p>	</div>
+<div class="sprocket-tabs-panel" data-tabs-panel>
+	<h3 class="dotted"><strong>Prosedur Berperkara</strong></h3>
+<p style="text-align: justify;"><img src="/images/icon/typo-color.png" alt="typo color" width="45" height="45" style="margin-right: 5px; float: left;" />Tatacara berperkara pada tingkat Pertama, Banding, Kasasi dan Peninjauan Kembali&nbsp;</p>
+<p><a href="/layanan-hukum/layanan-perkara/prosedur-berperkara" class="button-color">Selengkapnya</a></p>	</div>
+<div class="sprocket-tabs-panel" data-tabs-panel>
+	<p><img src="/images/file_upload/tab/hak_perempuan_dan_anak.jpg" alt="hak perempuan dan anak" width="768" height="548" /></p>
+<p>&nbsp;</p>
+<p><img src="/images/file_upload/tab/hak_perempuan_dan_anak_2.jpg" alt="hak perempuan dan anak 2" width="768" height="548" /></p>	</div>
+		</div>
+			</div>
+</div>
+		
+</div></div></section>
+				                  
+                  
+                <section id="below-innerbottom" class="grid-block">
+                                    </section>
+
+			</div>
+			
+						
+						<aside id="sidebar-b" class="grid-box"><div class="grid-box width100 grid-v"><div class="module mod-box mod-white deepest">
+
+		<h3 class="module-title"><i class="module-icon uk-float-right uk-icon-bookmark"></i>Informasi Cepat</h3>	<ul class="menu menu-sidebar">
+<li class="level1 item569 parent"><span class="separator level1 parent"><span>Direktori Putusan MA</span></span>
+<ul class="nav-child unstyled small level2"><li class="level2 item574"><a href="https://putusan.mahkamahagung.go.id/pengadilan/pa-bangkalan/periode/putus" target="_blank" rel="noopener noreferrer" class="level2"><span>Link Direktori Putusan</span></a></li></ul></li><li class="level1 item571 parent"><span class="separator level1 parent"><span>Informasi Pendaftaran Perkara</span></span>
+<ul class="nav-child unstyled small level2"><li class="level2 item576"><a href="http://sipp.pa-bangkalan.go.id/" target="_blank" rel="noopener noreferrer" class="level2"><span>Link info pendaftaran perkara</span></a></li></ul></li><li class="level1 item572 parent"><span class="separator level1 parent"><span>Statistik Pengadilan</span></span>
+<ul class="nav-child unstyled small level2"><li class="level2 item577"><a href="http://sipp.pa-bangkalan.go.id/statistik_perkara" target="_blank" rel="noopener noreferrer" class="level2"><span>Link Statistik Pengadilan</span></a></li></ul></li><li class="level1 item573 parent"><span class="separator level1 parent"><span>Pengaduan Pelayanan</span></span>
+<ul class="nav-child unstyled small level2"><li class="level2 item578"><a href="https://siwas.mahkamahagung.go.id/" target="_blank" rel="noopener noreferrer" class="level2"><span>Link Pengaduan Pelayanan</span></a></li></ul></li><li class="level1 item753 parent"><span class="separator level1 parent"><span>Panggilan Delegasi</span></span>
+<ul class="nav-child unstyled small level2"><li class="level2 item754"><a href="http://sipp.pa-bangkalan.go.id/list_delegasi/type/aFQ5dDB3WUljeHBISnhJM3dmNUtTeGVUZWJ3eHlvTVJ5ZFNpSHk1YWhPSmNSelp6ZlNxRHNqVzFXV0ZYR0xBWGxQdDlmRUN0bno4ZXdmVDRyMXJDenc9PQ==/YmZVQnNnUHdmR2RRMUNLWmxpN3J2YTVHcis0OGZLMFBVSEcvcE5ZZ1ordGN6R2lNR3E0NXFiRnV6T0tmTGZnK0d3dWxUS2hKMUZEaitENHh1d0xGY2c9PQ==" target="_blank" rel="noopener noreferrer" class="level2"><span>Delegasi Masuk</span></a></li><li class="level2 item755"><a href="http://sipp.pa-bangkalan.go.id/list_delegasi/type/d09EVEdFTlQzUWpnTEVJZnZXYm1PamQrS1RwZUVUODRFcHZ0UGdkQk50aGRrelNoZTF5cEJOVVg0U2lxbldTTDgrQWZyTFlCcTFiZTVEbWtsRFZxdUE9PQ==/WmtxY2xCenA5am9LQll0bkxaS0liQlI5d1dkU29uV25TL0NhZUF3MTd3S3dJMzROM0VXNkxCc1lycmlEQWMzM3N6R2ROY3VaMDd0dUYzbVA5ckFvS0E9PQ==" target="_blank" rel="noopener noreferrer" class="level2"><span>Delegasi Keluar</span></a></li></ul></li></ul>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box mod-white deepest">
+
+			
+<div 
+	 >
+	<p>&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p><img src="/images/whatsapp.jpg" alt="wa" width="372" height="180" /></p>
+<p>&nbsp;</p></div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box mod-white deepest">
+
+			
+<div 
+	 >
+	<p>&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><a href="/tentang-pengadian/perjanjian-dengan-pihak-ketiga"><img src="/images/icon/MOU.png" alt="MOU" width="524" height="200" /></a></p></div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box mod-white deepest">
+
+		<h3 class="module-title"><i class="module-icon uk-float-right uk-icon-bookmark"></i>LAPORAN PEKAN SURVEI</h3>	
+<div 
+	 >
+	<p><img src="/images/headers/hasil_pekan_survey_2025.png" alt="nilai pekan survey 2025" width="300" height="375" /></p></div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box mod-white deepest">
+
+		<h3 class="module-title"><i class="module-icon uk-float-right uk-icon-bookmark"></i>Survei</h3>	
+<div 
+	 >
+	<p><a href="https://survei.badilag.net/home/index/3873806952adefcc014f17ab5a52cf9e/srv" target="_blank" rel="noopener"><img src="/images/icon/2_copy.gif" alt="survei" /></a></p>
+<p style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="font-family: 'comic sans ms', sans-serif;">Survei Kepuasan Masyarakat</span></strong></span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="font-family: 'comic sans ms', sans-serif;"><span style="font-family: 'comic sans ms', sans-serif;">Survei </span>Persepsi Kualitas Pelayanan</span></strong></span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="font-family: 'comic sans ms', sans-serif;"><span style="font-family: 'comic sans ms', sans-serif;">Survei </span>Persepsi Anti Korupsi</span></strong></span></p></div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box mod-white deepest">
+
+		<h3 class="module-title"><i class="module-icon uk-float-right uk-icon-bookmark"></i>Agenda PA</h3>	
+<div 
+	 >
+	<p>
+<div 
+	 >
+	<p><span style="background-color: inherit; color: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; caret-color: auto;"><div> <p class="uk-event-time"> 23:Mei 2025</p> Sidang Keliling di Kec. Konang</div></span></p>
+<p><span style="background-color: inherit; color: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; caret-color: auto;"><div> <p class="uk-event-time"> 22:Mei 2025</p> Pembinaan KPTA Surabaya</div></span></p>
+<p><span style="background-color: inherit; color: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; caret-color: auto;"><span style="background-color: inherit; color: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; caret-color: auto;"><div> <p class="uk-event-time"> 15:April 2025</p> Halal Bihalal PTA Surabaya</div></span></span></p>
+<p><div> <p class="uk-event-time"> 14:April 2025</p> Rapat Koordinator Madura</div></p></div></p></div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-box mod-white deepest">
+
+		<h3 class="module-title"><i class="module-icon uk-float-right uk-icon-bookmark"></i>Statistik Web</h3>	
+<div 
+	 >
+	<p><span style="text-align: justify;"><div class="mvc_main"><div style="text-align: center;" class="mvc_digitCounter"><img class="mvc_digitCounterImg" src="/modules/mod_vvisit_counter/images/slot/8.gif" alt="8" title="8"/><img class="mvc_digitCounterImg" src="/modules/mod_vvisit_counter/images/slot/2.gif" alt="2" title="2"/><img class="mvc_digitCounterImg" src="/modules/mod_vvisit_counter/images/slot/2.gif" alt="2" title="2"/><img class="mvc_digitCounterImg" src="/modules/mod_vvisit_counter/images/slot/9.gif" alt="9" title="9"/><img class="mvc_digitCounterImg" src="/modules/mod_vvisit_counter/images/slot/7.gif" alt="7" title="7"/><img class="mvc_digitCounterImg" src="/modules/mod_vvisit_counter/images/slot/2.gif" alt="2" title="2"/></div><div style="text-align: center;" class="mvc_people"><table align="center" cellpadding="0" cellspacing="0" style="width: 90%;" class="mvc_peopleTable"><tbody><tr align="left" title="07-01-2025"><td><img class="mvc_peopleImg" src="/modules/mod_vvisit_counter/images/tbl/peoples/vtoday.gif" alt="Hari Ini" title="Hari Ini"/></td><td>Hari Ini</td><td align="right">24</td></tr><tr align="left" title="06-30-2025"><td><img class="mvc_peopleImg" src="/modules/mod_vvisit_counter/images/tbl/peoples/vyesterday.gif" alt="Kemarin" title="Kemarin"/></td><td>Kemarin</td><td align="right">37</td></tr><tr align="left" title="06-30-2025 - 07-06-2025"><td><img class="mvc_peopleImg" src="/modules/mod_vvisit_counter/images/tbl/peoples/vweek.gif" alt="Minggu Ini" title="Minggu Ini"/></td><td>Minggu Ini</td><td align="right">61</td></tr><tr align="left" title="07-01-2025 - 07-31-2025"><td><img class="mvc_peopleImg" src="/modules/mod_vvisit_counter/images/tbl/peoples/vmonth.gif" alt="Bulan Ini" title="Bulan Ini"/></td><td>Bulan Ini</td><td align="right">61</td></tr><tr align="left" title=""><td><img class="mvc_peopleImg" src="/modules/mod_vvisit_counter/images/tbl/peoples/vall.gif" alt="Total" title="Total"/></td><td>Total</td><td align="right">822972</td></tr></tbody></table></div><div style="text-align: center;" class="mvc_ip">IP anda :<span style="text-align: center;" class="vcounter_TypeTextIP">172.70.108.115</span></div><div style="text-align: center;" class="mvc_ipcountry">?</div><div style="text-align: center;" class="mvc_ipflag"><img class="mvc_ipflagimg" src="/modules/mod_vvisit_counter/images/flags/flag_UNKNOWN.gif" alt="UNKNOWN" title="UNKNOWN" width="20" height="13"/></div></div><!-- Mod_VVisit_Counter :  http://www.mmajunke.de/ --></span></p></div>		
+</div></div></aside>
+			
+		</div>
+		
+					<section id="bottom-a" class="grid-block"><div class="grid-box width100 grid-h"><div class="module mod-box  deepest">
+
+			
+<div 
+	 >
+	<p><span style="font-size: 12pt;"><strong>APLIKASI-APLIKASI PENDUKUNG</strong></span></p>
+<table style="width: 815px; height: 203px;">
+<tbody>
+<tr>
+<td><a href="https://siwas.mahkamahagung.go.id/" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/icon/aplikasi/pengaduan.jpg" alt="pengaduan" width="120" height="85" /></a></td>
+<td><a href="https://sso.mahkamahagung.go.id/cas/login?service=https%3A%2F%2Fsimari.mahkamahagung.go.id%2F" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/icon/aplikasi/simari.jpg" alt="simari" width="120" height="85" /></a></td>
+<td><a href="http://komdanas.mahkamahagung.go.id/" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/icon/aplikasi/komdanas.jpg" alt="komdanas" width="120" height="86" /></a></td>
+<td>
+<p style="text-align: center;"><a href="https://putusan3.mahkamahagung.go.id/pengadilan/profil/pengadilan/pa-bangkalan" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/icon/aplikasi/direktori_putusan.jpg" alt="direktori putusan" width="120" height="85" /></a></p>
+</td>
+</tr>
+<tr>
+<td><a href="https://sikep.mahkamahagung.go.id/site/login" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/icon/aplikasi/sikep.jpg" alt="sikep" width="120" height="85" /></a></td>
+<td><a href="http://simpeg.badilag.net/simkep/Login.wgx" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/icon/aplikasi/abs_badilag.jpg" alt="abs badilag" width="120" height="85" /></a></td>
+<td><a href="https://perpustakaan.mahkamahagung.go.id/" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/icon/aplikasi/perpustakaan.jpg" alt="perpustakaan" width="120" height="85" /></a></td>
+<td><a href="https://lpse.mahkamahagung.go.id/eproc4" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/icon/aplikasi/lpse.jpg" alt="lpse" width="120" height="85" /></a></td>
+</tr>
+</tbody>
+</table></div>		
+</div></div></section>
+		
+					<section id="bottom-b" class="grid-block"><div class="grid-box width25 grid-h"><div class="module mod-box  deepest">
+
+		<h3 class="module-title">Hubungi Kami</h3>	
+<div 
+	 >
+	<p><span style="font-size: 10pt;">Pengadilan Agama Bangkalan<br /></span></p>
+<p><span style="font-size: 10pt;">Jl. Soekarno Hatta No. 49 Bangkalan<br /></span></p>
+<p><span style="font-size: 10pt;">Telp: 031-3095582</span><br /><span style="font-size: 10pt;">Fax:&nbsp; 031-3061482</span></p>
+<p>Email : <span id="cloak25f116e3b01a54a9e28ee3daddc82294">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak25f116e3b01a54a9e28ee3daddc82294').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy25f116e3b01a54a9e28ee3daddc82294 = 'p&#97;b&#97;ngk&#97;l&#97;n' + '&#64;';
+				addy25f116e3b01a54a9e28ee3daddc82294 = addy25f116e3b01a54a9e28ee3daddc82294 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+				document.getElementById('cloak25f116e3b01a54a9e28ee3daddc82294').innerHTML += addy25f116e3b01a54a9e28ee3daddc82294;
+		</script></p></div>		
+</div></div><div class="grid-box width25 grid-h"><div class="module mod-box  deepest">
+
+		<h3 class="module-title">Tautan Web</h3>	
+<div 
+	 >
+	<p><h6 class="dotted"><i class="uk-icon-bookmark-o"></i> <a href="https://mahkamahagung.go.id/id" target="_blank" rel="noopener noreferrer">Mahkamah Agung RI</a></h6></p>
+<p><h6 class="dotted"><i class="uk-icon-bookmark-o"></i> <a href="http://badilag.mahkamahagung.go.id" target="_blank" rel="noopener noreferrer">Ditjen Badilag</a></h6></p>
+<p><h6 class="dotted"><i class="uk-icon-bookmark-o"></i> <a href="http://putusan.mahkamahagung.go.id/" target="_blank" rel="noopener noreferrer">Direktori Putusan MA-RI</a></h6></p>
+<p><h6 class="dotted"><i class="uk-icon-bookmark-o"></i> <a href="https://jdih.mahkamahagung.go.id/" target="_blank" rel="noopener noreferrer">JDIH Mahkamah Agung</a></h6></p>
+<p><h6 class="dotted"><i class="uk-icon-bookmark-o"></i> <a href="http://www.pta-surabaya.go.id/" target="_blank" rel="noopener noreferrer">PTA Surabaya</a></h6></p>
+<p><h6 class="dotted"><i class="uk-icon-bookmark-o"></i> <a href="http://www.bangkalankab.go.id" target="_blank" rel="noopener noreferrer">Pemerintah Daerah</a></h6></p></div>		
+</div></div><div class="grid-box width25 grid-h"><div class="module mod-box  deepest">
+
+		<h3 class="module-title">PA Koordinator Madura</h3>	
+<div 
+	 >
+	<p><h6 class="dotted"><i class="uk-icon-legal"></i> <a href="http://www.pa-sampang.go.id" target="_blank" rel="noopener">Pengadilan Agama Sampang</a></h6></p>
+<p><h6 class="dotted"><i class="uk-icon-legal"></i> <a href="http://pa-pamekasan.go.id" target="_blank" rel="noopener">Pengadilan Agama Pamekasan</a></h6></p>
+<p><h6 class="dotted"><i class="uk-icon-legal"></i> <a href="http://pa-sumenep.go.id" target="_blank" rel="noopener">Pengadilan Agama Sumenep</a></h6></p>
+<p><h6 class="dotted"><i class="uk-icon-legal"></i> <a href="http://pa-kangean.go.id" target="_blank" rel="noopener">Pengadilan Agama Kangean</a></h6></p>
+<p>&nbsp;</p></div>		
+</div></div><div class="grid-box width25 grid-h"><div class="module mod-box  deepest">
+
+		<h3 class="module-title">Jam Pelayanan</h3>	
+<div 
+	 >
+	<p class="payment"><strong>Jam Kerja</strong></p>
+<p class="payment">Senin - Kamis: 07:30 - 16:00 WIB<br />Jum'at : 07:00 - 16:00 WIB</p>
+<p><strong>Jam Istirahat</strong><br />Senin - Kamis: 12:00 - 13:00 WIB<br />Jum'at : 11:30 - 13:00 WIB</p>
+<p><strong>Jadwal Sidang</strong><br />Senin - Kamis : Pukul 09:00 - Selesai</p></div>		
+</div></div></section>
+				
+					<section id="newsletter">
+				<div class="module   deepest">
+
+			
+<div 
+	 >
+	<table style="border-color: #056e4f; margin-left: auto; margin-right: auto;" border="0">
+<tbody>
+<tr>
+<td>Pengadilan Agama Bangkalan@2019</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p></div>		
+</div>			</section>
+		
+				</div>
+		</div>
+
+					<footer id="footer" class="grid-block">
+				<div class="module   deepest">
+
+			
+<div 
+	 >
+	<p><a href="https://achecker.ca/checker/index.php" target="_blank" rel="noopener noreferrer"><img src="/images/w3c_wai_AAA.png" alt="w3c wai AAA" style="float: left; border: #000000;" /></a>&nbsp; <a href="https://validator.w3.org/" target="_blank" rel="noopener noreferrer"><img src="/images/w3c%20html%205.png" alt="w3c html 5" style="border: #000000;" /></a></p></div>		
+</div>			</footer>
+			
+
+				<a id="totop-scroller" href="#page"></a>
+		
+					<section id="copyright">
+				<div class="module   deepest">
+
+			<style type="text/css">
+			.whatsappchat_161.is-bottom_right .popup-section .popup .myPopup_161::after {  border-color: #29e67e transparent transparent transparent; }
+		.whatsappchat .popup-section h3 { color: #0f0e0e }
+</style>
+		<div class="is_bottom_right whatsappchat_161 whatsappchat is-bottom_right">
+			<div class="popup-section">
+				<div class="popup">
+												<span class="help_btn_161 help-you-btn" style="background-color: #29e67e; color: #0f0e0e">
+					    	<img src="https://pa-bangkalan.go.id/modules/mod_ebwhatsappchat/assets/images/whatsapp_icon_1.png"  class="is-analytics" id="text_iconimg" alt="WhatsApp" />			                Chat Informasi					    </span>
+															    <span class="myPopup_161 popuptext" id="myPopup">
+				      <div class="popup-box">
+				        <div class="popup-top" style="background-color: #29e67e; color: #0f0e0e">
+				        							          <div class="image">
+						            <img src="https://pa-bangkalan.go.id/modules/mod_ebwhatsappchat/assets/images/contact-img.png" >
+						          </div>
+						          <div class="content">						          	
+						            	<span class="name">PETUGAS INFORMASI</span>																          </div>
+						    				        </div>
+				        				        <div class="chat-content">
+				          <div class="message">
+				            <p style="text-align: center;"><span style="font-size: 12pt; color: #000000;">Informasi apa yang anda butuhkan</span></p>				          </div>
+				        </div>
+				    					        <div class="response">
+				          <input type="text" name="text" id="response_text_161" placeholder="Write a response">
+				          <a href="javascript:void(0);" class="submit_btn_161 send_btn"><img src="https://pa-bangkalan.go.id/modules/mod_ebwhatsappchat/assets/images/send-img.png"></a>
+				        </div>
+
+				      </div>
+				    </span>
+				</div>
+			</div>
+		</div>
+
+
+<script>
+  jQuery(".is_bottom_right .help_btn_161").click(function(){
+    jQuery(".is_bottom_right .popup-section .popup .myPopup_161").toggleClass("show");
+  });
+  </script>
+<script type="text/javascript">
+	jQuery( ".response .submit_btn_161" ).click(function() {
+	  var r_text = jQuery('#response_text_161').val();
+	  // alert(r_text);
+	  if(r_text != ''){
+	  	wsac_msg = r_text;
+	  } else {
+	  	wsac_msg = "Hai";
+	  }
+	  var initial_msg = "&text="+wsac_msg;
+	  var initial_msg_for_phone = "?text="+wsac_msg;
+	  // alert(initial_msg);
+	  var phone_number = "6282225222541";
+
+	  	if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+			if(/Opera Mini|safari|firefox/i.test(navigator.userAgent) ) 
+			var href = "https://api.whatsapp.com/send?phone="+phone_number+""+initial_msg;
+			else
+			var href = "https://wa.me/"+phone_number+""+initial_msg;
+		} else {
+			var href = "https://web.whatsapp.com/send?phone="+phone_number+""+initial_msg;
+		}
+	  // alert(href);
+	  window.open(href, '_blank');
+	});
+</script>
+<script type="text/javascript">
+	jQuery( document ).ready(function() {
+		var icon_position = "bottom_right";
+	    var clslng = jQuery('body').find('.is_bottom_right').length;
+	    // console.log(clslng);
+	    if(clslng != 0){
+	    	var sum = 0;
+	    	var ssum = 50;
+	    	jQuery(function(){
+			    jQuery(".is_bottom_right").each(function(i){
+			    	
+			    	if(i == 0){ sum = sum + 15;
+			    	} else { sum= 35; sum += ssum; }
+			    	if(icon_position == "bottom_left" || icon_position == "bottom_right"){
+			    		jQuery(this).css('bottom', sum+'px');
+			    	}
+			    	if(icon_position == "top_left" || icon_position == "top_right"){
+			    		jQuery(this).css('top', sum+'px');
+			    	}
+			        
+			    });
+			});
+	    }
+	});
+</script>
+
+		
+</div>
+<div class="module mod-white  deepest">
+
+			
+<div 
+	 >
+	<p>&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: right; position: fixed; top: 0px; right: 0px; overflow: visible;"><a href="https://cctv.badilag.net/display/satker/d352052f73777b4afaa48f42d996b313" target="_blank" rel="noopener"><img src="https://i.ibb.co.com/vDKnXjB/cctv-gif.gif" alt="cctv" width="158" height="125" /></a></p></div>		
+</div>							</section>
+		
+
+			
+
+			
+
+		
+	</div>
+		<script>
+		(function($){
+		$(document).on('ready', function() {
+					});
+		})(jQuery);
+	</script>
+</body>
+</html>
