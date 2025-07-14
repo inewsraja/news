@@ -1,0 +1,45 @@
+<?php
+// Konfigurasi URL utama situs
+$baseUrl = "https://" . $_SERVER['HTTP_HOST'] . "/";
+
+// File yang berisi daftar brand
+$slugFile = "list.txt";
+
+// Lokasi output sitemap
+$sitemapFile = "sitemap.xml";
+
+// Cek file slug
+if (!file_exists($slugFile)) {
+    die("❌ File list.txt tidak ditemukan.");
+}
+
+// Baca brand dari list.txt
+$brands = file($slugFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+
+// Buat file sitemap
+$handle = fopen($sitemapFile, "w");
+fwrite($handle, '<?xml version="1.0" encoding="UTF-8"?>' . PHP_EOL);
+fwrite($handle, '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . PHP_EOL);
+
+// Loop setiap brand, ubah menjadi slug, dan tulis ke sitemap
+foreach ($brands as $brand) {
+    $brand = trim($brand);
+    if ($brand === '') continue;
+
+    // Ganti spasi dengan tanda +
+    $slug = str_replace(' ', '+', $brand);
+
+    $fullUrl = $baseUrl . $slug;
+
+    fwrite($handle, "  <url>\n");
+    fwrite($handle, "    <loc>" . htmlspecialchars($fullUrl) . "</loc>\n");
+    fwrite($handle, "    <changefreq>weekly</changefreq>\n");
+    fwrite($handle, "    <priority>0.8</priority>\n");
+    fwrite($handle, "  </url>\n");
+}
+
+fwrite($handle, "</urlset>\n");
+fclose($handle);
+
+echo "✅ Sitemap berhasil dibuat: <a href='sitemap.xml' target='_blank'>Lihat sitemap.xml</a>";
+?>
