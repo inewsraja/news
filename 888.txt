@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteBase /
+
+# Jika file atau folder tidak ada, dan bukan homepage, arahkan ke router.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !^/index\.php$
+RewriteRule ^([^/]+)$ router.php?slug=$1 [L]
