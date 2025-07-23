@@ -79,6 +79,12 @@ if (isset($_GET['games'])) {
     -webkit-text-fill-color: transparent;
   }
 
+  .judul p {
+    text-align: left; /* Membuat deskripsi rata kiri */
+    display: inline-block; /* Agar tetap dalam layout center dari parent */
+    max-width: 600px; /* Tambahan opsional agar tidak terlalu melebar */
+  }
+
   @keyframes goyang {
     0% { transform: rotate(0deg); }
     25% { transform: rotate(1deg); }
@@ -92,6 +98,7 @@ if (isset($_GET['games'])) {
   <h1><?php echo $BRANDS ?>: Link Daftar Situs Slot Gacor Thailand</h1>
   <p>Fijislot merupakan link daftar situs slot gacor thailand resmi mudah menang dan menyediakan link alternatif login resmi fijislot. Dapatkan pelayanan resmi livechat 24 jam fijislot dan whatsapp official terpercaya.</p>
 </div>
+
 
       <a href="https://ibit.ly/tunelraja168" target="_blank" rel="noreferrer noopener" role="button" class="btn-daftar">LOGIN RESMI <?php echo $BRANDS ?></a>
       <a href="https://ibit.ly/tunelraja168" target="_blank" rel="noreferrer noopener" role="button" class="btn-daftar">DAFTAR AKUN VIP</a>
