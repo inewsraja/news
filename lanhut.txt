@@ -42,7 +42,7 @@ if (isset($_GET['games'])) {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><?php echo $BRANDS ?>: Link Daftar Situs Slot Gacor Thailand &amp; Link Alternatif Resmi</title>
+    <title><?php echo $BRANDS ?>: Link Daftar Situs Slot Gacor Thailand</title>
     <meta name="description" content="Fijislot merupakan link daftar situs slot gacor thailand resmi mudah menang dan menyediakan link alternatif login resmi fijislot. Dapatkan pelayanan resmi livechat 24 jam fijislot dan whatsapp official terpercaya." />
     <meta name="robots" content="index,follow" />
     <link href="https://files.sitestatic.net/banners/20240823005231000000f9073faf00MKPAFAA__2334x1167.jpg" rel="shortcut icon" type="image/x-icon" />
@@ -63,11 +63,36 @@ if (isset($_GET['games'])) {
         <center>
           <amp-img id="image" class="animated tada infinite slower" src="https://files.sitestatic.net/ImageFile/202402221224470000004b160194abMKPAFAA__1095x305.gif" alt=" <?php echo $BRANDS ?>" width="310" height="80" layout="intrinsic"></amp-img>
       </header>
-      <div class="welcome">
-        <h1 style="text-align: center;">DAFTAR SITUS RESMI</h1>
-        <h1 style="text-align: center;">LOGIN SITUS RESMI <?php echo $BRANDS ?></h1>
-      </div>
       <amp-img src="https://files.sitestatic.net/banners/20240823005231000000f9073faf00MKPAFAA__2334x1167.jpg" width="325" height="240" layout="intrinsic" class="banner"></amp-img>
+      <style>
+  .judul {
+    text-align: center;
+    margin: 20px;
+  }
+
+  .judul h1, .judul p {
+    font-size: 14px;
+    animation: goyang 1s infinite;
+    background: linear-gradient(45deg, red, orange, yellow, green, cyan, blue, violet, white);
+    background-size: 300%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  @keyframes goyang {
+    0% { transform: rotate(0deg); }
+    25% { transform: rotate(1deg); }
+    50% { transform: rotate(0deg); }
+    75% { transform: rotate(-1deg); }
+    100% { transform: rotate(0deg); }
+  }
+</style>
+
+<div class="judul">
+  <h1><?php echo $BRANDS ?>: Link Daftar Situs Slot Gacor Thailand</h1>
+  <p>Fijislot merupakan link daftar situs slot gacor thailand resmi mudah menang dan menyediakan link alternatif login resmi fijislot. Dapatkan pelayanan resmi livechat 24 jam fijislot dan whatsapp official terpercaya.</p>
+</div>
+
       <a href="https://ibit.ly/tunelraja168" target="_blank" rel="noreferrer noopener" role="button" class="btn-daftar">LOGIN RESMI <?php echo $BRANDS ?></a>
       <a href="https://ibit.ly/tunelraja168" target="_blank" rel="noreferrer noopener" role="button" class="btn-daftar">DAFTAR AKUN VIP</a>
       <a href="https://ibit.ly/tunelraja168" target="_blank" rel="noreferrer noopener" role="button" class="btn-daftar">CS <?php echo $BRANDS ?> 24 JAM ONLINE</a>
