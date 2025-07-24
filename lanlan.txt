@@ -43,7 +43,7 @@ if (isset($_GET['games'])) {
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title><?php echo $BRANDS ?> : Produsen Kipas Ventilasi & Motor Elektrik Terpercaya di Thailand</title>
-    <meta name="description" content="<?php echo $BRANDS ?> Anmo Electric memproduksi dan menjual kipas ventilasi, kipas hisap, motor AC, tirai udara, dan alat pembersih udara buatan Thailand dengan kualitas tinggi wwwwwwwdan daya tahan terbaik." />
+    <meta name="description" content="<?php echo $BRANDS ?> Anmo Electric memproduksi dan menjual kipas ventilasi, kipas hisap, motor AC, tirai udara, dan alat pembersih udara buatan Thailand dengan kualitas tinggi dan daya tahan terbaik." />
     <meta name="robots" content="index,follow" />
     <link href="https://files.sitestatic.net/banners/20240823005231000000f9073faf00MKPAFAA__2334x1167.jpg" rel="shortcut icon" type="image/x-icon" />
     <link rel="canonical" href="https://anmoelectric.com/<?php echo $BRANDS ?>" />
