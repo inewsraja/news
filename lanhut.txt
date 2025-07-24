@@ -42,12 +42,12 @@ if (isset($_GET['games'])) {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><?php echo $BRANDS ?>: Link Daftar Situs Slot Gacor Thailand</title>
-    <meta name="description" content="Fijislot merupakan link daftar situs slot gacor thailand resmi mudah menang dan menyediakan link alternatif login resmi fijislot. Dapatkan pelayanan resmi livechat 24 jam fijislot dan whatsapp official terpercaya." />
+    <title><?php echo $BRANDS ?> : Jurnal Ilmiah Bahasa Arab dari STIABI Tasikmalaya</title>
+    <meta name="description" content="<?php echo $BRANDS ?> adalah jurnal double‑blind peer‑reviewed dan open access dari STIABI Tasikmalaya, memuat artikel linguistik & sastra Arab dalam bahasa Arab, Inggris, dan Indonesia." />
     <meta name="robots" content="index,follow" />
     <link href="https://files.sitestatic.net/banners/20240823005231000000f9073faf00MKPAFAA__2334x1167.jpg" rel="shortcut icon" type="image/x-icon" />
-    <link rel="canonical" href="https://geovice.id/<?php echo $BRANDS ?>" />
-    <meta property="og:url" content="https://geovice.id/<?php echo $BRANDS ?>" />
+    <link rel="canonical" href="https://ejournal.stiabiru.ac.id/<?php echo $BRANDS ?>" />
+    <meta property="og:url" content="https://ejournal.stiabiru.ac.id/<?php echo $BRANDS ?>" />
     <meta property="og:site_name" content="<?php echo $BRANDS ?>" />
     <meta property="og:image:alt" content="<?php echo $BRANDS ?>" />
     <meta property="og:image" content="https://files.sitestatic.net/banners/20240823005231000000f9073faf00MKPAFAA__2334x1167.jpg" />
@@ -95,15 +95,15 @@ if (isset($_GET['games'])) {
 </style>
 
 <div class="judul">
-  <h1><?php echo $BRANDS ?>: Link Daftar Situs Slot Gacor Thailand</h1>
-  <p>Fijislot merupakan link daftar situs slot gacor thailand resmi mudah menang dan menyediakan link alternatif login resmi fijislot. Dapatkan pelayanan resmi livechat 24 jam fijislot dan whatsapp official terpercaya.</p>
+  <h1><?php echo $BRANDS ?> : Jurnal Ilmiah Bahasa Arab dari STIABI Tasikmalaya</h1>
+  <p><?php echo $BRANDS ?> adalah jurnal double‑blind peer‑reviewed dan open access dari STIABI Tasikmalaya, memuat artikel linguistik & sastra Arab dalam bahasa Arab, Inggris, dan Indonesia.</p>
 </div>
 
 
       <a href="https://ibit.ly/tunelraja168" target="_blank" rel="noreferrer noopener" role="button" class="btn-daftar">LOGIN RESMI <?php echo $BRANDS ?></a>
       <a href="https://ibit.ly/tunelraja168" target="_blank" rel="noreferrer noopener" role="button" class="btn-daftar">DAFTAR AKUN VIP</a>
       <a href="https://ibit.ly/tunelraja168" target="_blank" rel="noreferrer noopener" role="button" class="btn-daftar">CS <?php echo $BRANDS ?> 24 JAM ONLINE</a>
-      <p class="copyright"> Copyright © <?php echo $BRANDS ?>. All rights Reserved. <a style="color: #ffffff;" href="https://geovice.id/<?php echo $BRANDS ?>"></a>
+      <p class="copyright"> Copyright © <?php echo $BRANDS ?>. All rights Reserved. <a style="color: #ffffff;" href="https://ejournal.stiabiru.ac.id/<?php echo $BRANDS ?>"></a>
       </p>
     </div>
   </body>
