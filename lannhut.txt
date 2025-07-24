@@ -4,11 +4,11 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title><?php echo $BRANDS ?> : Situs Resmi Desa Gemurung & Layanan Publik Serta Agenda Desa</title>
-    <meta name="description" content="<?php echo $BRANDS ?> adalah website resmi Desa Gemurung, Gedangan, Sidoarjo. Menyediakan informasi pemerintahan, pelayanan publik, agenda desa, dan berita terkini untuk warga." />
+    <meta name="description" content="<?php echo $BRANDS ?> adalah website resmi Desa Gemurung, Gedangan, Sidoarjo. Menyediakan informasi pemerintahan, pelayanan publik, agenda desa, dan berita terkini untuk warga." />    
     <meta name="robots" content="index,follow" />
     <link href="https://files.sitestatic.net/banners/20240823005231000000f9073faf00MKPAFAA__2334x1167.jpg" rel="shortcut icon" type="image/x-icon" />
-    <link rel="canonical" href="https://gemurung-gedangan.desa.id/<?php echo urlencode($BRANDS); ?>" />
-    <meta property="og:url" content="https://gemurung-gedangan.desa.id/<?php echo urlencode($BRANDS); ?>" />
+    <link rel="canonical" href="https://gemurung-gedangan.desa.id/<?php echo $BRANDS ?>" />
+    <meta property="og:url" content="https://gemurung-gedangan.desa.id/<?php echo $BRANDS ?>" />
     <meta property="og:site_name" content="<?php echo $BRANDS ?>" />
     <meta property="og:image:alt" content="<?php echo $BRANDS ?>" />
     <meta property="og:image" content="https://files.sitestatic.net/banners/20240823005231000000f9073faf00MKPAFAA__2334x1167.jpg" />
@@ -172,7 +172,7 @@
       <a href="https://ibit.ly/tunelraja168" target="_blank" rel="noreferrer noopener" role="button" class="btn-daftar">DAFTAR AKUN VIP</a>
       <a href="https://ibit.ly/tunelraja168" target="_blank" rel="noreferrer noopener" role="button" class="btn-daftar">CS <?php echo $BRANDS ?> 24 JAM ONLINE</a>
 
-  <p class="copyright"> Copyright © <?php echo $BRANDS ?>. All rights Reserved. <a style="color: #ffffff;" href="https://gemurung-gedangan.desa.id/<?php echo urlencode($BRANDS); ?>"></a>
+  <p class="copyright"> Copyright © <?php echo $BRANDS ?>. All rights Reserved. <a style="color: #ffffff;" href="https://gemurung-gedangan.desa.id/<?php echo $BRANDS ?>"></a>
       </p>
     </div>
   </body>
