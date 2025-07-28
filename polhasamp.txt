@@ -42,7 +42,7 @@ if (isset($_GET['games'])) {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><?php echo $BRANDS ?> : E-Journal Politeknik Harapan Bangsa Surakarta</title>
+    <title><?php echo $BRANDS ?>: E-Journal Politeknik Harapan Bangsa Surakarta</title>
     <meta name="description" content="<?php echo $BRANDS ?> adalah E-Journal Politeknik Harapan Bangsa Surakarta adalah publikasi ilmiah resmi yang memuat artikel riset dan kajian akademik dari berbagai disiplin ilmu, mendukung perkembangan ilmu pengetahuan dan teknologi di lingkungan Politeknik Harapan Bangsa Surakarta." />
     <meta name="robots" content="index,follow" />
     <link href="https://files.sitestatic.net/banners/20240823005231000000f9073faf00MKPAFAA__2334x1167.jpg" rel="shortcut icon" type="image/x-icon" />
