@@ -1,45 +1,70 @@
 <?php
-// Konfigurasi URL utama situs
-$baseUrl = "https://" . $_SERVER['HTTP_HOST'] . "/";
+// Fungsi untuk menghitung jumlah baris dalam file
+function getFileRowCount($filename)
+{
+    $file = fopen($filename, "r");
+    $rowCount = 0;
 
-// File yang berisi daftar brand
-$slugFile = "list.txt";
+    while (!feof($file)) {
+        fgets($file);
+        $rowCount++;
+    }
 
-// Lokasi output sitemap
-$sitemapFile = "sitemap.xml";
-
-// Cek file slug
-if (!file_exists($slugFile)) {
-    die("❌ File list.txt tidak ditemukan.");
+    fclose($file);
+    return $rowCount;
 }
 
-// Baca brand dari list.txt
-$brands = file($slugFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+// Mendapatkan protokol (http/https)
+$protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') ? 'https' : 'http';
 
-// Buat file sitemap
-$handle = fopen($sitemapFile, "w");
-fwrite($handle, '<?xml version="1.0" encoding="UTF-8"?>' . PHP_EOL);
-fwrite($handle, '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . PHP_EOL);
+// Mendapatkan host dan URI (path)
+$host = $_SERVER['HTTP_HOST'];
+$uri = $_SERVER['REQUEST_URI'];
 
-// Loop setiap brand, ubah menjadi slug, dan tulis ke sitemap
-foreach ($brands as $brand) {
-    $brand = trim($brand);
-    if ($brand === '') continue;
+// Memecah URI untuk mendapatkan path, kemudian hapus nama file PHP (misalnya get-sitemap.php)
+$path = parse_url($uri, PHP_URL_PATH);
 
-    // Ganti spasi dengan tanda +
-    $slug = str_replace(' ', '+', $brand);
+// Menangani jika ada subfolder atau basepath
+$basePath = rtrim(dirname($path), '/');  // Menjaga agar path tidak berakhir dengan '/'
 
-    $fullUrl = $baseUrl . $slug;
+// Membuat base URL
+$baseUrl = $protocol . '://' . $host . $basePath;
 
-    fwrite($handle, "  <url>\n");
-    fwrite($handle, "    <loc>" . htmlspecialchars($fullUrl) . "</loc>\n");
-    fwrite($handle, "    <changefreq>weekly</changefreq>\n");
-    fwrite($handle, "    <priority>0.8</priority>\n");
-    fwrite($handle, "  </url>\n");
+// Membaca file "list.txt" yang berisi nama-nama game
+$judulFile = "list.txt";
+$jumlahBaris = getFileRowCount($judulFile);
+$fileLines = file($judulFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+
+// Membuat file sitemap.xml
+$sitemapFile = fopen("sitemap.xml", "w");
+fwrite($sitemapFile, '<?xml version="1.0" encoding="UTF-8"?>' . PHP_EOL);
+fwrite($sitemapFile, '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . PHP_EOL);
+
+// Menambahkan URL untuk setiap game yang ada di list.txt
+foreach ($fileLines as $judul) {
+    // Membuat URL dinamis berdasarkan folder atau file yang ada
+    $sitemapLink = $baseUrl . '/' . urlencode($judul); // Tambahkan slug atau nama file dari list.txt
+
+    // Cek apakah URL yang dihasilkan benar-benar ada di server
+    $filePath = $_SERVER['DOCUMENT_ROOT'] . '/' . $judul;
+    
+    if (is_dir($filePath)) {
+        // Jika itu adalah folder, buat URL untuk folder tersebut
+        $sitemapLink .= '/';
+    } elseif (is_file($filePath)) {
+        // Jika itu adalah file, tetapkan tanpa perubahan
+        $sitemapLink .= '';
+    }
+
+    // Menulis elemen URL ke dalam file sitemap.xml
+    fwrite($sitemapFile, '  <url>' . PHP_EOL);
+    fwrite($sitemapFile, '    <loc>' . $sitemapLink . '</loc>' . PHP_EOL);
+    fwrite($sitemapFile, '  </url>' . PHP_EOL);
 }
 
-fwrite($handle, "</urlset>\n");
-fclose($handle);
+fwrite($sitemapFile, '</urlset>' . PHP_EOL);
+fclose($sitemapFile);
 
-echo "✅ Sitemap berhasil dibuat: <a href='sitemap.xml' target='_blank'>Lihat sitemap.xml</a>";
+// Menampilkan pesan bahwa sitemap telah berhasil dibuat
+echo "SITEMAP DONE CREATE!";
 ?>
