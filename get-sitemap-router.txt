@@ -1,6 +1,6 @@
 <?php
 // Konfigurasi domain + path tetap
-$baseUrl = "https://" . $_SERVER['HTTP_HOST'] . "/dosen/?super=";
+$baseUrl = "https://" . $_SERVER['HTTP_HOST'] . router.php?slug=";
 
 // File yang berisi daftar brand (1 per baris)
 $slugFile = "list.txt";
