@@ -18,14 +18,14 @@
     <meta name="og:type" content="product" />
     <meta name="og:description" content="RAJA168 adalah link slot gacor terbaru yang memiliki permainan slot88 gacor yang sedang maxwin setiap harinya. Mari bermain dan raih kesempatan bermain menggunakan rtp dari raja slot gacor dan dapatkan kemudanan menang dan wd besar hari ini." />
     <meta name="keywords" content="RAJA SLOT, RAJA SLOT 2025, SLOT MAXWIN, SERVER THAILAND, SLOT RESMI, RAJA SLOT TERBARU, RAJA SLOT HARI INI" />
-    <meta name="og:image" content="https://seosiau288.b-cdn.net/30.jpg" />
+    <meta name="og:image" content="https://seosiau288.b-cdn.net/img/30.jpg" />
     <link rel="icon" type="image/x-icon" href="https://dewabos.b-cdn.net/img/favicon.ico" />
     <link rel="manifest" href="//g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
     <link rel="canonical" href="https://jpt2.slemankab.go.id/" />
     <link rel="amphtml" href="https://seosiau288.b-cdn.net/jpt2slemankabgoid.html" />
 
     <!-- start preload -->
-    <link rel="preload" href="https://seosiau288.b-cdn.net/30.jpg" as="image" />
+    <link rel="preload" href="https://seosiau288.b-cdn.net/img/30.jpg" as="image" />
     <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
     <link rel="preconnect dns-prefetch" href="//acs-m.lazada.co.id" />
     <link rel="preconnect dns-prefetch" href="//laz-g-cdn.alicdn.com" />
@@ -133,7 +133,7 @@
         };
         var dataLayer = window.dataLayer || [];
         var pdpTrackingData =
-            '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://seosiau288.b-cdn.net/30.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"RAJA168 : LINK SLOT GACOR MAXWIN TERBARU & LOGIN RAJA SLOT88 RESMI GAMPANG MENANG WD","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+            '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://seosiau288.b-cdn.net/img/30.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"RAJA168 : LINK SLOT GACOR MAXWIN TERBARU & LOGIN RAJA SLOT88 RESMI GAMPANG MENANG WD","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
         try {
             pdpTrackingData = JSON.parse(pdpTrackingData);
             pdpTrackingData.v_voya = false;
@@ -747,7 +747,7 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "RAJA168 : LINK SLOT GACOR MAXWIN TERBARU & LOGIN RAJA SLOT88 RESMI GAMPANG MENANG WD",
-  "image": "https://seosiau288.b-cdn.net/30.jpg",
+  "image": "https://seosiau288.b-cdn.net/img/30.jpg",
   "category": "Televisi & Video",
   "brand": {
     "@type": "Brand",
@@ -4111,7 +4111,7 @@
                                 <div class="gallery-preview-panel__content">
                                     <img class="pdp-mod-common-image gallery-preview-panel__image"
                                         alt="RAJA168 : LINK SLOT GACOR MAXWIN TERBARU & LOGIN RAJA SLOT88 RESMI GAMPANG MENANG WD"
-                                        src="https://seosiau288.b-cdn.net/30.jpg" />
+                                        src="https://seosiau288.b-cdn.net/img/30.jpg" />
                                 </div>
                             </div>
                         </div>
