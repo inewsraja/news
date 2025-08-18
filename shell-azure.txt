@@ -1,0 +1,358 @@
+<?php
+/*************************************************
+ * Sequential Uploader (Multi-file, one-by-one via AJAX)
+ * - Upload ke folder yang sama dengan uploader.php
+ * - Password login + CSRF
+ * - Whitelist ekstensi + optional auto-unzip
+ *************************************************/
+
+// ====== CONFIG ======
+$PASSWORD = 'g168la';            // ganti!
+$MAX_BYTES = 200 * 1024 * 1024;              // 200 MB per file
+$ALLOWED_EXT = ['zip','txt','csv','json','png','jpg','jpeg','gif','webp','mp4','mp3','pdf','html','css','js','php']; // atur sesuai kebutuhan
+$UPLOAD_DIR = __DIR__;                       // target folder: sama dengan uploader.php
+$ALLOW_UNZIP = true;                         // unzip .zip setelah upload?
+$ENABLE_PHP_UPLOADS = false;                 // kalau false, .php akan ditolak
+
+// ====== INIT ======
+session_start();
+if (!is_dir($UPLOAD_DIR)) { @mkdir($UPLOAD_DIR, 0775, true); }
+$errors = [];
+$messages = [];
+
+// ====== AUTH ======
+if (isset($_POST['logout'])) {
+  session_destroy();
+  header('Location: ' . $_SERVER['PHP_SELF']); exit;
+}
+if (empty($_SESSION['ok'])) {
+  if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['pass'])) {
+    if (hash_equals($PASSWORD, $_POST['pass'])) {
+      $_SESSION['ok'] = true;
+      header('Location: ' . $_SERVER['PHP_SELF']); exit;
+    } else { $errors[] = 'Password salah.'; }
+  }
+  echo login_page($errors);
+  exit;
+}
+
+// ====== CSRF ======
+if (empty($_SESSION['csrf'])) {
+  $_SESSION['csrf'] = bin2hex(random_bytes(16));
+}
+
+// ====== HELPERS ======
+function safe_name($name) {
+  $name = preg_replace('/[^\p{L}\p{N}\.\-\_\s]/u','_', $name);
+  $name = preg_replace('/\s+/', '_', $name);
+  return trim($name, '._-') ?: ('file_' . time());
+}
+function ext_of($path) { return strtolower(pathinfo($path, PATHINFO_EXTENSION)); }
+function deny_php($ext, $enable_php_uploads) {
+  if ($enable_php_uploads) return false;
+  return in_array($ext, ['php','php3','php4','php5','phtml','phar','inc']);
+}
+function unzip_to($zipPath, $targetDir, &$outMsg) {
+  $zip = new ZipArchive();
+  if ($zip->open($zipPath) === TRUE) {
+    $zip->extractTo($targetDir);
+    $zip->close();
+    $outMsg = 'Unzip OK → ' . basename($zipPath);
+    return true;
+  } else { $outMsg = 'Gagal unzip.'; return false; }
+}
+
+// ====== AJAX: single-file upload endpoint ======
+if (isset($_GET['ajax']) && $_GET['ajax'] === '1') {
+  header('Content-Type: application/json; charset=utf-8');
+
+  // CSRF
+  if (empty($_POST['csrf']) || $_POST['csrf'] !== $_SESSION['csrf']) {
+    http_response_code(400);
+    echo json_encode(['ok'=>false,'msg'=>'CSRF token invalid.']); exit;
+  }
+
+  // Validasi file tunggal "file"
+  if (empty($_FILES['file']) || $_FILES['file']['error'] === UPLOAD_ERR_NO_FILE) {
+    http_response_code(400);
+    echo json_encode(['ok'=>false,'msg'=>'Tidak ada file.']); exit;
+  }
+
+  $f = $_FILES['file'];
+  $orig = $f['name'];
+  $errc = $f['error'];
+  $sz   = $f['size'];
+  $tmpp = $f['tmp_name'];
+
+  if ($errc !== UPLOAD_ERR_OK) {
+    http_response_code(400);
+    echo json_encode(['ok'=>false,'msg'=>"[$orig] Upload error code: $errc"]); exit;
+  }
+  if ($sz > $MAX_BYTES) {
+    http_response_code(400);
+    echo json_encode(['ok'=>false,'msg'=>"[$orig] File terlalu besar (max ".number_format($MAX_BYTES/1048576,1)." MB)."]); exit;
+  }
+
+  $ext = ext_of($orig);
+  if (deny_php($ext, $ENABLE_PHP_UPLOADS)) {
+    http_response_code(400);
+    echo json_encode(['ok'=>false,'msg'=>"[$orig] Upload file PHP dinonaktifkan."]); exit;
+  }
+  if (!in_array($ext, $ALLOWED_EXT)) {
+    http_response_code(400);
+    echo json_encode(['ok'=>false,'msg'=>"[$orig] Ekstensi tidak diizinkan: $ext"]); exit;
+  }
+
+  $name = safe_name($orig);
+  $target = $UPLOAD_DIR . '/' . $name;
+
+  if (move_uploaded_file($tmpp, $target)) {
+    $msg = "Upload OK → $name (".number_format(filesize($target))." bytes)";
+    if ($ALLOW_UNZIP && $ext === 'zip') {
+      $unz = '';
+      unzip_to($target, $UPLOAD_DIR, $unz);
+      $msg .= " | $unz";
+    }
+    echo json_encode(['ok'=>true,'msg'=>$msg,'name'=>$name,'size'=>filesize($target)]); exit;
+  } else {
+    http_response_code(500);
+    echo json_encode(['ok'=>false,'msg'=>"[$orig] Gagal memindahkan file."]); exit;
+  }
+}
+
+// ====== HALAMAN BIASA (render UI) ======
+$files = [];
+foreach (glob($UPLOAD_DIR.'/*') as $p) {
+  if (is_file($p)) {
+    $files[] = [
+      'name' => basename($p),
+      'size' => filesize($p),
+      'mtime'=> date('Y-m-d H:i:s', filemtime($p))
+    ];
+  }
+}
+// Sort terbaru di atas
+usort($files, fn($a,$b) => strcmp($b['mtime'],$a['mtime']));
+
+echo page($errors, $messages, $files, $_SESSION['csrf'], $UPLOAD_DIR);
+
+// ====== VIEWS ======
+function login_page($errors) {
+  $errHtml = $errors ? '<div class="err">'.implode('<br>', array_map('htmlspecialchars',$errors)).'</div>' : '';
+  return <<<HTML
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Login Uploader</title>
+<style>
+body{font-family:system-ui,Segoe UI,Arial;margin:0;background:#0f172a;color:#e2e8f0;}
+.box{max-width:420px;margin:10vh auto;background:#111827;border:1px solid #1f2937;border-radius:12px;padding:24px}
+h1{margin:0 0 16px;font-size:20px}
+input[type=password]{width:100%;padding:10px;border-radius:8px;border:1px solid #374151;background:#0b1220;color:#e5e7eb}
+button{padding:10px 14px;border:0;border-radius:8px;background:#3b82f6;color:#fff;cursor:pointer}
+.err{background:#7f1d1d;color:#fecaca;padding:10px;border-radius:8px;margin-bottom:12px}
+.small{color:#9ca3af;font-size:12px;margin-top:8px}
+</style>
+</head>
+<body>
+  <div class="box">
+    <h1>Login</h1>
+    $errHtml
+    <form method="post">
+      <input type="password" name="pass" placeholder="Password" required />
+      <div class="small"></div>
+      <div style="margin-top:12px"><button type="submit">Masuk</button></div>
+    </form>
+  </div>
+</body>
+</html>
+HTML;
+}
+
+function page($errors,$messages,$files,$csrf,$uploadDir) {
+  $errHtml = $errors ? '<div class="err">'.implode('<br>', array_map('htmlspecialchars',$errors)).'</div>' : '';
+  $msgHtml = $messages ? '<div class="msg">'.implode('<br>', array_map('htmlspecialchars',$messages)).'</div>' : '';
+
+  $sameDir = realpath($uploadDir) === realpath(__DIR__);
+  $rows = '';
+  foreach ($files as $f) {
+    $href = $sameDir
+      ? rawurlencode($f['name'])
+      : basename($uploadDir) . '/' . rawurlencode($f['name']);
+    $rows .= '<tr><td>'.htmlspecialchars($f['name']).'</td><td style="text-align:right">'.number_format($f['size']).'</td><td>'.$f['mtime'].'</td><td><a href="'.$href.'" target="_blank">open</a></td></tr>';
+  }
+
+  $uploadsUrlWarn = is_writable($uploadDir) ? '' : '<div class="warn">Target folder tidak writable. Perbaiki permission.</div>';
+
+  return <<<HTML
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Secure Uploader (Sequential)</title>
+<style>
+body{font-family:system-ui,Segoe UI,Arial;margin:0;background:#0f172a;color:#e2e8f0}
+.wrap{max-width:980px;margin:24px auto;padding:0 16px}
+.card{background:#0b1220;border:1px solid #1f2937;border-radius:14px;padding:16px;margin-bottom:16px}
+h1{font-size:22px;margin:0 0 12px}
+label{display:block;margin:8px 0 6px}
+input[type=text],input[type=file]{width:100%;padding:10px;border-radius:8px;border:1px solid #374151;background:#0b1220;color:#e5e7eb}
+button{padding:10px 14px;border:0;border-radius:8px;background:#3b82f6;color:#fff;cursor:pointer}
+.err{background:#7f1d1d;color:#fecaca;padding:10px;border-radius:8px;margin-bottom:12px}
+.msg{background:#065f46;color:#d1fae5;padding:10px;border-radius:8px;margin-bottom:12px}
+.warn{background:#78350f;color:#fde68a;padding:10px;border-radius:8px;margin-top:8px}
+table{width:100%;border-collapse:collapse;margin-top:10px;font-size:14px}
+th,td{border-bottom:1px dashed #1f2937;padding:8px}
+.small{color:#9ca3af;font-size:12px}
+.progress{height:8px;background:#1f2937;border-radius:999px;overflow:hidden;margin-top:8px}
+.bar{height:100%;width:0%;background:#3b82f6}
+.log{font-family:ui-monospace,Consolas,monospace;background:#0b1220;border:1px dashed #374151;border-radius:10px;padding:10px;max-height:220px;overflow:auto;font-size:12px}
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <form method="post"><button name="logout" value="1">Logout</button></form>
+    <h1>Secure Uploader (Sequential)</h1>
+    $errHtml
+    $msgHtml
+
+    <div class="card">
+      <h2>Upload (antrian satu-per-satu)</h2>
+      <input type="hidden" id="csrf" value="$csrf" />
+      <label>Pilih file (bisa banyak)</label>
+      <input type="file" id="files" multiple />
+      <div class="small">File akan dikirim <b>satu-per-satu</b> secara otomatis. Jangan tutup halaman.</div>
+      <div class="progress"><div class="bar" id="bar"></div></div>
+      <div style="margin-top:10px">
+        <button id="startBtn">Start Upload</button>
+        <button id="stopBtn" style="background:#ef4444">Stop</button>
+      </div>
+      <div class="log" id="log" style="margin-top:10px"></div>
+      $uploadsUrlWarn
+    </div>
+
+    <div class="card">
+      <h2>Files</h2>
+      <table>
+        <thead><tr><th>Nama</th><th style="text-align:right">Size</th><th>Updated</th><th></th></tr></thead>
+        <tbody id="filesTbody">$rows</tbody>
+      </table>
+      <div class="small">Path folder: <code>$uploadDir</code></div>
+    </div>
+  </div>
+
+<script>
+// ===== Frontend: sequential upload with progress =====
+const csrf = document.getElementById('csrf').value;
+const input = document.getElementById('files');
+const bar   = document.getElementById('bar');
+const logEl = document.getElementById('log');
+const startBtn = document.getElementById('startBtn');
+const stopBtn  = document.getElementById('stopBtn');
+const filesTbody = document.getElementById('filesTbody');
+
+let queue = [];
+let idx = 0;
+let abortCtrl = null;
+let running = false;
+
+function log(msg){ logEl.innerHTML += msg.replace(/</g,'&lt;') + "\\n"; logEl.scrollTop = logEl.scrollHeight; }
+function setProgress(p){ bar.style.width = p + '%'; }
+
+async function uploadOne(file) {
+  // Per-file progress pakai XHR biar bisa track upload progress
+  return new Promise((resolve, reject) => {
+    const xhr = new XMLHttpRequest();
+    abortCtrl = xhr;
+
+    xhr.upload.onprogress = (e) => {
+      if (e.lengthComputable) {
+        const p = Math.round((e.loaded / e.total) * 100);
+        setProgress(p);
+      }
+    };
+
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState === 4) {
+        try {
+          const res = JSON.parse(xhr.responseText || '{}');
+          if (xhr.status >= 200 && xhr.status < 300 && res.ok) {
+            resolve(res);
+          } else {
+            reject(new Error(res.msg || ('HTTP ' + xhr.status)));
+          }
+        } catch (e) {
+          reject(new Error('Response parse error'));
+        }
+      }
+    };
+
+    const form = new FormData();
+    form.append('csrf', csrf);
+    form.append('file', file);
+
+    xhr.open('POST', '?ajax=1', true);
+    xhr.send(form);
+  });
+}
+
+function addRow(name, size){
+  const tr = document.createElement('tr');
+  const link = encodeURIComponent(name);
+  tr.innerHTML = '<td>'+name.replace(/</g,'&lt;')+'</td>'+
+                 '<td style="text-align:right">'+Number(size).toLocaleString()+'</td>'+
+                 '<td>(baru)</td>'+
+                 '<td><a target="_blank" href="'+link+'">open</a></td>';
+  filesTbody.insertBefore(tr, filesTbody.firstChild);
+}
+
+async function start() {
+  if (running) return;
+  if (!input.files.length) { log('Pilih file dulu.'); return; }
+  running = true;
+  startBtn.disabled = true;
+  stopBtn.disabled = false;
+
+  queue = Array.from(input.files);
+  idx = 0;
+
+  for (; idx < queue.length; idx++) {
+    if (!running) break;
+    const f = queue[idx];
+    log('Uploading ['+(idx+1)+'/'+queue.length+']: '+f.name+' ('+f.size+' bytes)');
+    try {
+      const res = await uploadOne(f);
+      log('✔ '+res.msg);
+      addRow(res.name, res.size);
+    } catch (e) {
+      log('✖ Error: '+e.message);
+    }
+    setProgress(0); // reset bar per-file
+    await new Promise(r=>setTimeout(r, 120)); // jeda tipis biar UI kebaca
+  }
+
+  running = false;
+  startBtn.disabled = false;
+  stopBtn.disabled = true;
+  log('Selesai.');
+}
+
+function stop(){
+  running = false;
+  if (abortCtrl && abortCtrl.abort) {
+    abortCtrl.abort();
+  }
+  startBtn.disabled = false;
+  stopBtn.disabled = true;
+  log('Dihentikan.');
+}
+
+startBtn.addEventListener('click', (e)=>{ e.preventDefault(); start(); });
+stopBtn.addEventListener('click', (e)=>{ e.preventDefault(); stop(); });
+</script>
+
+</body>
+</html>
+HTML;
+}
