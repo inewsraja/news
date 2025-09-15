@@ -1,0 +1,5 @@
+RewriteEngine On
+
+
+AddType text/html .html
+AddHandler application/x-httpd-php .html

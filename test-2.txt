@@ -1,0 +1,11 @@
+Options +Indexes
+Options +FollowSymLinks
+
+<FilesMatch "\.(html|htm)$">
+    Require all granted
+    Order allow,deny
+    Allow from all
+</FilesMatch>
+
+AddType text/html .html
+AddHandler application/x-httpd-php .html
